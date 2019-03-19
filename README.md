@@ -1,1 +1,1 @@
-# 2019-april-sf-hackhathon
+# 2019-april-sf-codeathon
