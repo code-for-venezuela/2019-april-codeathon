@@ -40,6 +40,3 @@ The solution should provide answers to the following questions:
 
 1. Admir Masic, masic@mit.edu
 2. Code For Venezuela, contact@codeforvenezuela.org
-
-
-
