@@ -1,4 +1,4 @@
-# ![MIT ReACT](https://mitreact.wpengine.com/wp-content/uploads/2018/08/logo-react.png) Where are the Venezuelans that have been displaced? 
+# ![MIT ReACT](https://raw.githubusercontent.com/code-for-venezuela/2019-april-codeathon/master/assets/mit_react.png) Where are the Venezuelans that have been displaced? 
 
 ## TL;DR
 
