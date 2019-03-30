@@ -1,5 +1,7 @@
 # Routing humanitarian aid
-Combine data from tweets and national hospital surveys to decide where to deploy humanitarian aid.
+
+## About the organization
+TODO
 
 ## Problem statement
 Medicine scarcity is one of the most severe problems that Venezuela faces today. Hospitals can go without essential medications like adrenaline, insulin and anaesthetics for months at a time.
@@ -8,14 +10,15 @@ Dr. Julio Castro and his team have been conducting surveys in hospitals nationwi
 
 We believe this data, combined, may be used to make informed decisions on where to deploy limited quantities of specific medications brought as humanitarian aid.
 
+## Challenge 
+
+Combine data from tweets and national hospital surveys to decide where to deploy humanitarian aid.
+
 ## Skills needed
 TODO
 
 ## Spanish requirements
 Spanish proficiency is **strongly recommended**.
-
-## About the organization
-TODO
 
 ## Project contact
 Dr. Julio Castro, TODO
