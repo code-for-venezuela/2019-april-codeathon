@@ -1,8 +1,8 @@
 # Automating scholarship payments
-Make a script that connects to the Uphold API to automate AlumnUSB scholarship payments.
+Make a script that connects to the [Uphold API](https://uphold.com/en/developer/api) to automate AlumnUSB scholarship payments.
 
 ## Problem statement
-One of AlumnUSB's programs gives financial aid to students of the University with stellar performance. These transfers are done via Uphold, to guarantee that the money is arriving directly to the intended recipient, as they handle the required identity verification. This allows AlumnUSB to operate with transparency.
+One of AlumnUSB's programs gives financial aid to students of the University with stellar performance. These transfers are done via [Uphold](https://uphold.com), to guarantee that the money is arriving directly to the intended recipient, as they handle the required identity verification. This allows AlumnUSB to operate with transparency.
 
 An AlumnUSB member must manually send transfers to all the grant recipients, a process that currently takes more than two hours every month. We would like a system that automates this process. This will save a tremendous amount of human time and allow us to scale our operations.
 
