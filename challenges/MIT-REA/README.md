@@ -5,7 +5,7 @@
 
 Help us create a comprehensive census of Venezuelans that could benefit from MIT ReACT program.
 
-## Backgroung 
+## Background
 
 ### Who we are
 
