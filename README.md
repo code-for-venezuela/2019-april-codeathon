@@ -3,7 +3,7 @@
 This repo contains all the information needed for both in-person and remote participation in the event.
 
 # Challenges
-In the `challenges` folder you will find a list of challenges proposed by our partner organizations. Each challenge will has a unique identifier code and will have it's own channel in Slack where you will be able to ask questions.
+In the `challenges` folder you will find a list of challenges proposed by our partner organizations. Each challenge will have a unique identifier code and will have it's own channel in Slack where you will be able to ask questions.
 
  
 # Contact info
