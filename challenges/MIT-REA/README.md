@@ -7,7 +7,7 @@ Help us create a comprehensive census of Venezuelans that could benefit from MIT
 
 ## Backgroung 
 
-### About the organization
+### Who we are
 
 The [MIT ReACT](https://react.mit.edu/) Certificate Program is part of the MIT ReACT Hub, an initiative that was launched in May 2017 when the challenge of refugee education was presented at MIT SOLVE. Professor [Admir Masic](https://cee.mit.edu/people_individual/admir-masic/) and now Vice-Chancellor Ian Waitz championed the creation of a center at MIT to design and deploy new learning opportunities for displaced populations around the world. Driven by Prof. Masic own experience as a refugee, ReACT has been offering new learning programs for displaced people where they live. By blending in-person workshops, online courses, and paid professional internships they currently offer career and academic pathways to students in 10 countries. 
 
