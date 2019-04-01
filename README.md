@@ -10,5 +10,5 @@ In the `challenges` folder you will find a list of challenges proposed by our pa
 If you have any questions email us at contact at codeforvenezuela.org
 
 # Code of Conduct
-Coming soon.
+All participants must adhere to the following [Code of Conduct](code_of_conduct.md).
 
