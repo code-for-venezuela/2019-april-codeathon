@@ -69,7 +69,7 @@ The following cities are hosting remote locations for the Hackathon. Please chec
       *   Slack channel: [#c4v-slc](https://codeforvenezuela.slack.com/messages/CHH8172JZ)
   *   São Leopoldo: 
       *   POC: [Vanessa Martinez](https://codeforvenezuela.slack.com/messages/DHGTV9TFW)
-      *   Slack Channel: [#c4v-ria](https://codeforvenezuela.slack.com/messages/CHJB83CT0)
+      *   Slack Channel: [#c4v-sjiy](https://codeforvenezuela.slack.com/messages/CHJB83CT0)
   *   NYC: 
       *   POC: Ibrahim Rodriguez
       *   Slack Channel: [#c4v-nyc](https://codeforvenezuela.slack.com/messages/CHJB5NJP8)
