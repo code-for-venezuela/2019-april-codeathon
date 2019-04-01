@@ -26,7 +26,7 @@ The focus of the event would be in the following areas:
 * Digital products and platforms to connect the diaspora with the country.
 
 1. In the `challenges` folder you will find a list of challenges proposed by our partner organizations. Please take time to review them before the event. The more prepared, the more chances your team will have of making good progress during the weekend! 
-2. Each challenge will have a dedicated Slack channel where you could ask questions and get clarifications. The slack channel for a channel follows the following convention: chal-*challange_code*. (e.g #[chal-mpv-inf](https://codeforvenezuela.slack.com/messages/CHEG10M7S), [#chal-mit-rea](https://codeforvenezuela.slack.com/messages/CH875RP7T))
+2. Each challenge will have a dedicated Slack channel where you could ask questions and get clarifications. The slack channel for a channel follows the following convention: chal-*challenge_code*. (e.g #[chal-mpv-inf](https://codeforvenezuela.slack.com/messages/CHEG10M7S), [#chal-mit-rea](https://codeforvenezuela.slack.com/messages/CH875RP7T))
 
 If you want to work on a challenge that is not by our partner organization, you are welcome to do so! Share you challenge in [#hackathon-ga](https://codeforvenezuela.slack.com/messages/CH5JMFBB2).
 
