@@ -1,6 +1,6 @@
 # Routing humanitarian aid
 
-## About the organization
+## Who we are
 TODO
 
 ## Problem statement

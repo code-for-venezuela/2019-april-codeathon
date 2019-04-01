@@ -1,6 +1,6 @@
 # USB Digital Document Signing
 
-## About the organization
+## Who we are
 Universidad Simón Bolívar is a public university in Miranda state. It is the most prestigious science and technology university in Venezuela, and one of the leading ones in South America. The following challenge is presented by the DACE (Dirección de Admisión y Control de Estudios).
 
 

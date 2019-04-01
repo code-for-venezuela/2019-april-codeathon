@@ -1,6 +1,6 @@
 # Ingesting tweets about medicine scarcity
 
-## About the organization
+## Who we are
 TODO
 
 ## Problem statement
