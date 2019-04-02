@@ -65,17 +65,19 @@ We will set up a [Slack channel to allow remote folks](https://codeforvenezuela.
 The following cities are hosting remote locations for the Hackathon. Please check out their RSVP website and make sure you respond if you want to attend to the event there:
 
   *   Santiago de Chile ([RSVP](https://welcu.com/codeforvenezuelachile/code-for-venezuela-chile)):
-      *   POC: Raul Pino
+      *   POC: [Raul Pino](https://codeforvenezuela.slack.com/messages/DH85N759S)
       *   Slack channel: [#c4v-slc](https://codeforvenezuela.slack.com/messages/CHH8172JZ)
+      *   Location: 23people.io (Oficina 306), Providencia 1208 - Avenida Providencia, Providencia, Santiago, Chile
   *   São Leopoldo: 
       *   POC: [Vanessa Martinez](https://codeforvenezuela.slack.com/messages/DHGTV9TFW)
       *   Slack Channel: [#c4v-sjiy](https://codeforvenezuela.slack.com/messages/CHJB83CT0)
   *   NYC: 
-      *   POC: Ibrahim Rodriguez
+      *   POC: [Ibrahim Rodriguez](https://codeforvenezuela.slack.com/messages/DHH3C8HV3)
       *   Slack Channel: [#c4v-nyc](https://codeforvenezuela.slack.com/messages/CHJB5NJP8)
   *   Barcelona ([RSVP](https://welcu.com/codeforvenezuelaeu/hackathon-code-for-venezuela)):
-      *   POC: Luis Castro
+      *   POC: [Luis Castro](https://codeforvenezuela.slack.com/messages/DHG2GVD40)
       *   Slack Channel: [#c4v-bcn](https://codeforvenezuela.slack.com/messages/CHEFHUDCY)
+      *   Location: Barcelona, Plaza de Cataluña, 1, mytaxi Barcelona, Plaça de Catalunya, Barcelona, Espagne
   *   Bogota: 
       *   POC: Anibal Rojas
       *   Slack Channel: [#c4v-bog](https://codeforvenezuela.slack.com/messages/CHEFD9KMW)
