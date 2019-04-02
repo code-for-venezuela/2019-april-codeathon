@@ -13,7 +13,7 @@ TODO
     2. We want to bring together: developers, PMs, Data scientists, designers etc. 
     3. A team could be made up of engineers only or a mix of cross-discipline teammates. 
     4. We encourage freedom to innovate and be creative. 
-    5. Team Size Recommendation: 3 to 5 people.
+    5. Recommended team size: 3 to 5 people.
 2. **Logistics:**
     6. Slack will be the main communication channel for the event. Please use [#hackathon-ga](https://codeforvenezuela.slack.com/messages/CH5JMFBB2) to post questions and requests. 
     7. When there are talks or workshops, we will make sure we have a video stream available for remote participants.
@@ -36,9 +36,9 @@ If you want to work on a challenge that is not by our partner organization, you 
 2. You can record a video and we will present it on site as a part of the final presentations. 
 3. **Deadline**: Sunday 14, 4:30pm Pacific Time) 
 4. **Software**:
-    1. Our suggestion is to use Loom to record the video of the demo: [https://www.useloom.com](https://www.useloom.com)
-5. Post your video via Slack in the channel [#hackathon-ga](https://codeforvenezuela.slack.com/messages/CH5JMFBB2) 
-6. If possible, you are invited to watch live the feedback from our panelist. This will happen around 4:30PM PST,  Sunday 14.
+    1. We suggest to use Loom to record the video of the demo: [https://www.useloom.com](https://www.useloom.com)
+5. Post your video to [Slack](https://codeforvenezuela.slack.com/messages/CH5JMFBB2) 
+6. We are inviting folks to watch live the feedback from our panelist. This will happen around 4:30PM PST,  Sunday 14.
 
    If you can't join live, we will let you know via Slack on Monday 04/15 any feedback from our panelists.
 
