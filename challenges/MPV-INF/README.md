@@ -107,7 +107,6 @@ We found the following issues with the data:
 *   There are duplicates in this data, meaning that popular tweets will be over represented.
 *   This should be a problem that could be handled during the hackathon by different teams.
 *   We don't have any labeled data that we could use to correlate these tweets to, for example, outbreak diseases.
-*   Looking to see whether we can get that data via Dr. Castro.
 
 
 **We are trying to explore possible ways to get access to Twitter premium APIs, but this is currently a work in progress. If we do get access to it, participants could leverage the Twitter Historical API and the metadata that comes with it to work on this problem**
