@@ -118,7 +118,6 @@ Due to the issues highlighted above, we are proposing the next set of challenges
 
 Create a data pipeline that would keep ingesting these tweets and that can potentially use twitter premium APIs to keep an up to date stream of `#ServicioPublico** tweets.
 
-**NOTE: This is a project on itself and would be an excellent outcome of the Hackathon**
 
 #### 2. Enrich the data set
 
@@ -139,7 +138,7 @@ Once the data is curated and traditional ML techniques can be apply on it, the u
 2. Identify where a particular medicine is needed in the country. 
 
 
-**NOTE: Projects 1, 2, 3 are orthogonal and you don't need to solve them all. They could be split between different teams in the Hackathon. Project 4 is aspirational and depends on 2. **
+**NOTE: Projects 1, 2, 3 are orthogonal and you don't need to solve them all. They could be split between different teams in the Hackathon. Project 4 is aspirational and depends on 2.**
 
 
 ## Skills Required
