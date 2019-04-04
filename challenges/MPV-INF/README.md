@@ -41,7 +41,7 @@ On top of this, medicine scarcity is one of the most severe problems that Venezu
 
 Dr. Julio Castro and his team have been conducting surveys in hospitals nationwide to keep track of where specific medications are most needed. They have also been collecting a database of more than 1 million tweets that contain medical supply requests, emergency data, and other indicators.
 
-They believe this data, combined, may be used with to make with the following purposes:
+They believe this data, combined, may be used to make with the following purposes:
 
 1. Make informed decisions on where to deploy limited quantities of specific medications brought as humanitarian aid.
 2. Detect disease outbreaks in real-time, these reports would otherwise take weeks to go through the official channels making it really hard to react to the outbreaks costing many lives in the process.
