@@ -118,7 +118,7 @@ Due to the issues highlighted above, we are proposing the next set of challenges
 
 #### 1. **Data Ingestion Pipeline**
 
-Create a data pipeline that would keep ingesting these tweets and that can potentially use twitter premium APIs to keep an up to date stream of `#ServicioPublico** tweets.
+Create a data pipeline that would keep ingesting these tweets and that can potentially use twitter premium APIs to keep an up to date stream of [#ServicioPublico](https://twitter.com/hashtag/ServicioP%C3%BAblico?src=hash) tweets.
 
 
 #### 2. Enrich the data set
