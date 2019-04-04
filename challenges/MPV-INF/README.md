@@ -8,7 +8,7 @@ The ultimate goal of this challenge is to create predictive models using Twitter
 1. Detect epidemic outbreaks.
 2. Identify where a particular medicine is needed in the country. 
 
-We don't expect this challenge to be completed during the Hackathon, the goal is to set the foundational work that will allow to solve this problem.
+**NOTE:We don't expect this challenge to be completed during the Hackathon, the goal is to set the foundational work that will allow to solve this problem.**
 
 ## Background
 
@@ -49,7 +49,7 @@ They believe this data, combined, may be used with to make with the following pu
 
 ## Challenge
 
-Dr. Julio Castro has shared the tweeter data they have been collecting. Code For Venezuela, has done an initial analysis on this data. To give you some context about the problem, below you can find the results of that study. 
+Dr. Julio Castro has shared the Twitter data they have been collecting. Code For Venezuela, has done an initial analysis on this data. To give you some context about the problem, below you can find the results of that study. 
 
 ### Data Summary
 
@@ -110,7 +110,7 @@ We found the following issues with the data:
 *   Looking to see whether we can get that data via Dr. Castro.
 
 
-**We are trying to explore possible ways to get access to Twitter premium APIs, but this is currently a work in progress. If we do get access to it, participants could leverage twitter historical and the metadata that comes with it to work on this problem**
+**We are trying to explore possible ways to get access to Twitter premium APIs, but this is currently a work in progress. If we do get access to it, participants could leverage the Twitter Historical API and the metadata that comes with it to work on this problem**
 
 ### Proposed Challenges
 
@@ -118,23 +118,23 @@ Due to the issues highlighted above, we are proposing the next set of challenges
 
 #### 1. **Data Ingestion Pipeline**
 
-Create a data pipeline that would keep ingesting these tweets and that can potentially use twitter premium APIs to keep an up to date stream of [#ServicioPublico](https://twitter.com/hashtag/ServicioP%C3%BAblico?src=hash) tweets.
+Create a data pipeline that would keep ingesting these tweets and that can potentially use Twitter premium APIs to keep an up to date stream of [#ServicioPublico](https://twitter.com/hashtag/ServicioP%C3%BAblico?src=hash) tweets.
 
 
-#### 2. Enrich the data set
+#### 2. Data set enrichment
 
-The data in it's current state, does not have enough information to create predictive models. We need to extend it. Some ideas in this direction:
-* **NLP analysis**: build a tool/pipeline that, given the data from twitter, can understand whether a specific tweet is requesting a specific medicine so that identical medicines can be grouped together. This would require using NLP on tweets in Spanish.
-* **Geolocate the Tweet**: At the moment, tweets don't the geolocation. Could you find ways to get this information (e.g querying tweeter API?)
-* **Medicine to disease mapping**: Once we get medicine information, we will need to create training data set that maps those tweets to diseases that are cured with those medicines. 
+The data in its current state does not have enough information to create predictive models, we need to extend it. Here are some ideas in this direction:
+* **NLP analysis**: Build a tool/pipeline that, given the data from Twitter, can understand whether a specific tweet is requesting a specific medicine so that identical medicines can be grouped together. This would require using NLP on tweets in Spanish.
+* **Geolocate the Tweet**: At the moment, tweets do not have geolocation data. Can you find ways to get this information (e.g querying Twitter API, inferring location by detecting locations or users, etc)
+* **Medicine to disease mapping**: Once we get information about medicines in a tweet, we will need to create training data set that maps those tweets to diseases that are cured with those medicines. 
 
 #### 3. **Data Visualization** 
 
-Visualize the data given to see whether some patterns emerge over time. For example, which medicines are requested more often during specific times. 
+Visualize the data given to see whether some patterns emerge over time, for example, which medicines are requested more often during specific times. 
 
 #### 4. Predictive Models
 
-Once the data is curated and traditional ML techniques can be apply on it, the ultimate goal of this project is to create predictive models that using tweeter data to: 
+Once the data is curated and traditional ML techniques can be applied to it, the ultimate goal of this project is to create predictive models that using Twitter data to: 
 
 1. Detect epidemic outbreaks.
 2. Identify where a particular medicine is needed in the country. 
