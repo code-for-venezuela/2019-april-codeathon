@@ -53,7 +53,7 @@ Dr. Julio Castro has shared the tweeter data they have been collecting. Code For
 
 ### Data Summary
 
-We have a little bit over 1M tweets containing hashtags related to `#ServicioPublico`, which is a popular hashtag used in Venezuela whenever a specific medicine or medical treatment is being searched by Venezuelans. It provides a mean to connect people who need to find specific medicines with people in different parts of the country that might have access to that medicine.
+We have a little bit over 1M tweets containing hashtags related to [#ServicioPublico](https://twitter.com/hashtag/ServicioP%C3%BAblico?src=hash), which is a popular hashtag used in Venezuela whenever a specific medicine or medical treatment is being searched by Venezuelans. It provides a mean to connect people who need to find specific medicines with people in different parts of the country that might have access to that medicine.
 
 
 <table>
