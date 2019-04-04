@@ -4,11 +4,11 @@
 
 ## TL;DR
 
-The ultimate goal of this challenge is to create predictive models using twitter data to:
+The ultimate goal of this challenge is to create predictive models using Twitter data to:
 1. Detect epidemic outbreaks.
 2. Identify where a particular medicine is needed in the country. 
 
-We don't expect this challenge to be completed during the context of the Hackathon. But the goal is to set the foundational work that will allows to solve this problem.
+We don't expect this challenge to be completed during the Hackathon, the goal is to set the foundational work that will allow to solve this problem.
 
 ## Background
 
