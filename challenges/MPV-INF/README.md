@@ -104,11 +104,13 @@ Raw data is available [here](https://drive.google.com/open?id=1Y0dA_EaNPOmEyCaJC
 We found the following issues with the data:
 
 *   Data might be incomplete. According to the Twitter API descriptions, we believe that the data ingested by Dr. Castro might be only a sample of the data from the hashtag specified above. This is because you need access to the Enterprise or Premium APIs to get all tweets matching a specific query instead of a sample of them.
-*   **We are trying to explore possible ways to get access to Twitter premium APIs, but this is currently a work in progress.**
 *   There are duplicates in this data, meaning that popular tweets will be over represented.
 *   This should be a problem that could be handled during the hackathon by different teams.
 *   We don't have any labeled data that we could use to correlate these tweets to, for example, outbreak diseases.
 *   Looking to see whether we can get that data via Dr. Castro.
+
+
+**We are trying to explore possible ways to get access to Twitter premium APIs, but this is currently a work in progress. If we do get access to it, participants could leverage twitter historical and the metadata that comes with it to work on this problem**
 
 ### Proposed Challenges
 
