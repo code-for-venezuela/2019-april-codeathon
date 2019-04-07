@@ -30,6 +30,8 @@ The focus of the event would be in the following areas:
 
 If you want to work on a challenge that is not by our partner organization, you are welcome to do so! Share you challenge in [#hackathon-ga](https://codeforvenezuela.slack.com/messages/CH5JMFBB2).
 
+Neither Code for Venezuela nor our partner organization will retain ownership of your code. Finished work should be licensed under either Apache or MIT open source licenses so that it can continue to benefit the non-profits
+
 ## Demos and Presentations
 
 1. Each team will present a 3 minute demo on their work. 
