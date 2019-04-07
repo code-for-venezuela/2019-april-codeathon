@@ -6,7 +6,7 @@
 
 The ultimate goal of this challenge is to create predictive models using Twitter data to:
 1. Detect epidemic outbreaks.
-2. Identify where a particular medicine is needed in the country. 
+2. Identify where a particular medicine is needed in the country.
 
 **NOTE:We don't expect this challenge to be completed during the Hackathon, the goal is to set the foundational work that will allow to solve this problem.**
 
@@ -29,7 +29,7 @@ _Medicos por la Salud_ is a network of doctors distributed across the country th
 
 ## Problem Statement
 
-Venezuela has seen an unprecedented increase in cases of Malaria, Measles, Diphtheria and Zika. 
+Venezuela has seen an unprecedented increase in cases of malaria, measles, iphtheria and zika.
 
 _References_
 
@@ -41,15 +41,14 @@ On top of this, medicine scarcity is one of the most severe problems that Venezu
 
 Dr. Julio Castro and his team have been conducting surveys in hospitals nationwide to keep track of where specific medications are most needed. They have also been collecting a database of more than 1 million tweets that contain medical supply requests, emergency data, and other indicators.
 
-They believe this data, combined, may be used to make with the following purposes:
+They believe this data, combined, may be used for the following:
 
-1. Make informed decisions on where to deploy limited quantities of specific medications brought as humanitarian aid.
-2. Detect disease outbreaks in real-time, these reports would otherwise take weeks to go through the official channels making it really hard to react to the outbreaks costing many lives in the process.
-
+1. Making informed decisions on where to deploy limited quantities of specific medications brought as humanitarian aid.
+2. Detecting disease outbreaks in real-time. These reports would otherwise take weeks to go through the official channels, making it really hard to react to the outbreaks, which costs many lives in the process.
 
 ## Challenge
 
-Dr. Julio Castro has shared the Twitter data they have been collecting. Code For Venezuela, has done an initial analysis on this data. To give you some context about the problem, below you can find the results of that study. 
+Dr. Julio Castro has shared the Twitter data they have been collecting. Code For Venezuela has done an initial analysis of this data. Below you can find the results of that study to give you some context about the problem.
 
 ### Data Summary
 
@@ -105,38 +104,38 @@ We found the following issues with the data:
 
 *   Data might be incomplete. According to the Twitter API descriptions, we believe that the data ingested by Dr. Castro might be only a sample of the data from the hashtag specified above. This is because you need access to the Enterprise or Premium APIs to get all tweets matching a specific query instead of a sample of them.
 *   There are duplicates in this data, meaning that popular tweets will be over represented.
-*   This should be a problem that could be handled during the hackathon by different teams.
 *   We don't have any labeled data that we could use to correlate these tweets to, for example, outbreak diseases.
 
+This should be problems that could be handled during the hackathon by different teams.
 
 **We are trying to explore possible ways to get access to Twitter premium APIs, but this is currently a work in progress. If we do get access to it, participants could leverage the Twitter Historical API and the metadata that comes with it to work on this problem**
 
 ### Proposed Challenges
 
-Due to the issues highlighted above, we are proposing the next set of challenges using and inspired by this data:
+Due to the issues highlighted above, we are proposing the following set of challenges that use and are inspired by this data:
 
 #### 1. **Data Ingestion Pipeline**
 
-Create a data pipeline that would keep ingesting these tweets and that can potentially use Twitter premium APIs to keep an up to date stream of [#ServicioPublico](https://twitter.com/hashtag/ServicioP%C3%BAblico?src=hash) tweets.
+Create a data pipeline that would keep ingesting these tweets and that can potentially use Twitter's premium APIs to keep an up to date stream of [#ServicioPublico](https://twitter.com/hashtag/ServicioP%C3%BAblico?src=hash) tweets.
 
 
 #### 2. Data set enrichment
 
-The data in its current state does not have enough information to create predictive models, we need to extend it. Here are some ideas in this direction:
+The data in its current state does not have enough information to create predictive models so we need to extend it. Here are some ideas in this direction:
 * **NLP analysis**: Build a tool/pipeline that, given the data from Twitter, can understand whether a specific tweet is requesting a specific medicine so that identical medicines can be grouped together. This would require using NLP on tweets in Spanish.
 * **Geolocate the Tweet**: At the moment, tweets do not have geolocation data. Can you find ways to get this information (e.g querying Twitter API, inferring location by detecting locations or users, etc)
-* **Medicine to disease mapping**: Once we get information about medicines in a tweet, we will need to create training data set that maps those tweets to diseases that are cured with those medicines. 
+* **Medicine to disease mapping**: Once we get information about medicines in a tweet, we will need to create training data set that maps those tweets to diseases that are cured with those medicines.
 
-#### 3. **Data Visualization** 
+#### 3. **Data Visualization**
 
-Visualize the data given to see whether some patterns emerge over time, for example, which medicines are requested more often during specific times. 
+Visualize the data given to see whether some patterns emerge over time. One motivating question would be: which medicines are requested more often during specific times?
 
 #### 4. Predictive Models
 
-Once the data is curated and traditional ML techniques can be applied to it, the ultimate goal of this project is to create predictive models that using Twitter data to: 
+Once the data is curated and traditional ML techniques can be applied to it, the ultimate goal of this project is to create predictive models that using Twitter data to:
 
 1. Detect epidemic outbreaks.
-2. Identify where a particular medicine is needed in the country. 
+2. Identify where a particular medicine is needed in the country.
 
 
 **NOTE: Projects 1, 2, 3 are orthogonal and you don't need to solve them all. They could be split between different teams in the Hackathon. Project 4 is aspirational and depends on 2.**
@@ -153,3 +152,9 @@ Once the data is curated and traditional ML techniques can be applied to it, the
 
 ## Project contact
 Dr. Julio Castro, [@juliocastrom](https://twitter.com/juliocastrom)
+
+## Questions
+
+- do we need a specific format for storing or do we have free reign?
+- one thing that's probably needed: an api for visualization
+- as mentioned, this is a big one. project 1-3 can be done by 2 people each so call this 3 small challenges

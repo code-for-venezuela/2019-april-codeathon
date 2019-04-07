@@ -1,9 +1,5 @@
 # GIS Database for Caracas
 
-## TL;DR
-
-TODO
-
 ## Background
 
 ### Who we are
@@ -30,3 +26,10 @@ Some examples that you could use as a model:
 ## Project contacts
 
 1. Zulma Bolivar
+
+## Questions
+
+- what can we bootstrap with?
+- is most of this work around defining the type of api that we'd want?
+- how can we leverage things like [socrata](https://dev.socrata.com/publishers/)
+- think this can be 2-3 person effort
