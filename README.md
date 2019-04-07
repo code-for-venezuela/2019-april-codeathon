@@ -15,8 +15,8 @@ TODO
     4. We encourage freedom to innovate and be creative. 
     5. Recommended team size: 3 to 5 people.
 2. **Logistics:**
-    6. Slack will be the main communication channel for the event. Please use [#hackathon-ga](https://codeforvenezuela.slack.com/messages/CH5JMFBB2) to post questions and requests. 
-    7. When there are talks or workshops, we will make sure we have a video stream available for remote participants.
+    1. Slack will be the main communication channel for the event. Please use [#hackathon-ga](https://codeforvenezuela.slack.com/messages/CH5JMFBB2) to post questions and requests. 
+    2. Streaming: When there are talks or workshops, we will make sure we have a video stream available for remote participants. We will post the links in [#hackathon-ga](https://codeforvenezuela.slack.com/messages/CH5JMFBB2).
 
 ## Challenges
 
@@ -36,16 +36,12 @@ Neither Code for Venezuela nor our partner organization will retain ownership of
 
 1. Each team will present a 3 minute demo on their work. 
 2. You can record a video and we will present it on site as a part of the final presentations. 
-3. **Deadline**: Sunday 14, 4:30pm Pacific Time) 
-4. **Software**:
-    1. We suggest using Loom to record the video of the demo: [https://www.useloom.com](https://www.useloom.com)
-5. Post your video to [Slack](https://codeforvenezuela.slack.com/messages/CH5JMFBB2) 
-6. We are inviting folks to watch live the feedback from our panelist. This will happen around 4:30PM PST,  Sunday 14.
-
-   If you can't join live, we will let you know via Slack on Monday 04/15 any feedback from our panelists.
-
-7. **Continuity**: 
-    2. If your project has scope that goes beyond the weekend of the Hackathon, let us know if you would like to keep contributing. 
+3. **Deadline**: Sunday 14, 4:30pm Pacific Time.
+4. **Submission process**:
+    1. Use Loom to record the video of the demo: [https://www.useloom.com](https://www.useloom.com)
+    2. Post your video to [Slack](https://codeforvenezuela.slack.com/messages/CH5JMFBB2) 
+5. **Feedback**: All participants are invited to watch the feedback from our panelists. This will happen at 4:30PM PST, Sunday 14th and will be live streamed. If you can't join live, we will let you know via Slack on Monday 04/15 any feedback from our panelists.
+6. **Continuity**: If your project has scope that goes beyond the weekend of the Hackathon, let us know if you would like to keep contributing. 
 
 ## Pro Tips
 

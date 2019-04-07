@@ -38,10 +38,10 @@ In order to create more awareness about this issue, we would like to create a pl
         1. Explore partnerships with [DataDrum](datadrum.org), [Transparencia Venezuela](https://transparencia.org.ve/) and [Vendata](vendata.org).
         2. Can we make these reports available through their platforms? 
 2. **Visualization and Outreach**: in order to create awareness about these issues, we want to present this data in a way that is easy to understand by the general public and easy to distribute. The goal of this project is to find creative ways to achieve this. Here are some directions:
-    2. Create a "bar chart race" visualization (like [this](https://www.youtube.com/watch?v=dwZ6B5kalbQ)) using data provided by HRW and PAHO for diseases in Venezuela and how they compare to other parts of the world? 
-    3. Using the data from Boletin Epidemiológico, develop maps and dashboards for each Venezuela state? 
-    4. Explore the correlation between these diseases and mortality rates.
-    5. Explore cases per capita compared to other countries. 
+    1. Create a "bar chart race" visualization (like [this](https://www.youtube.com/watch?v=dwZ6B5kalbQ)) using data provided by HRW and PAHO for diseases in Venezuela and how they compare to other parts of the world? 
+    2. Using the data from Boletin Epidemiológico, develop maps and dashboards for each Venezuela state? 
+    3. Explore the correlation between these diseases and mortality rates.
+    4. Explore cases per capita compared to other countries. 
 
 
 ### Skills Required
