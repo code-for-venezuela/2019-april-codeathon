@@ -27,7 +27,7 @@ We would like to make it easier and more transparent to start having access to V
 
 In order to create more awareness about this issue, we would like to create a platform that makes this information available and discoverable through APIs.  Similar to the work that [PAHO](http://www.paho.org/hq/index.php?option=com_content&view=article&id=2632:2010-interactive-malaria-statistics&Itemid=2130&lang=en) is doing but completely focused on Venezuelan data.
 
-TODO: I think this should be split into three challenges: 
+COMMENT: I think this should be split into three challenges: 
 1) Parse Data / Publish it 
 2) visualization 
 3) analysis of the data.

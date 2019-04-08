@@ -6,8 +6,7 @@
 
 The Instituto Metropolitano de Urbanismo -Taller Caracas is an entity associated with the Central University of Venezuela with the mission of advancing best practices in urban planning and effective land use policy. The IMU maintains close relation with different universities, technical and scientific institutions in Caracas, as well as the municipal governments. Zulma Bolivar, the president of the IMU has been leading the effort to develop the public space chapter of Plan Pais.
 
-TODO:
-Define what is Plan Pais:
+COMMENT: Define what is Plan Pais:
 
 ### Problem statement
 
