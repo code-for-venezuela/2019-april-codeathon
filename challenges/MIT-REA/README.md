@@ -41,7 +41,3 @@ The solution should provide answers to the following questions:
 
 1. Admir Masic, masic@mit.edu
 2. Code For Venezuela, contact@codeforvenezuela.org
-
-## Questions
-
-- would be good to bootstrap people with some contacts at Venezuelan universities. Maybe AlumnUSB can help here?

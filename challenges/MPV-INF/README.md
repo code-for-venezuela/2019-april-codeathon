@@ -152,9 +152,3 @@ Once the data is curated and traditional ML techniques can be applied to it, the
 
 ## Project contact
 Dr. Julio Castro, [@juliocastrom](https://twitter.com/juliocastrom)
-
-## Questions
-
-- do we need a specific format for storing or do we have free reign?
-- one thing that's probably needed: an api for visualization
-- as mentioned, this is a big one. project 1-3 can be done by 2 people each so call this 3 small challenges

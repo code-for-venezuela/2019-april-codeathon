@@ -10,7 +10,7 @@ An AlumnUSB member must manually send transfers to all the grant recipients, a p
 
 ## Challenge
 
-* Make a script that connects to the [Uphold API](https://uphold.com/en/developer/api) to automate AlumnUSB scholarship payments.
+* Make a script that connects to the [Uphold API](https://uphold.com/en/developer/api) to automate AlumnUSB scholarship payments. You are free to define what format would take in the script as a parameter (csv, excel, json, etc). The important parameters are that you script needs to be able to parse are defined in [here](https://uphold.com/en/developer/api/documentation/#create-amp-commit-a-transaction)
 * Bonus 1: Make a frontend for this script and have an UI that AlumnUSB's admins can use to interact with the tool you are creating.
 * Bonus 2: Create a scheduler that automates the process of when and to whom send the financial aid.
 
@@ -18,11 +18,11 @@ An AlumnUSB member must manually send transfers to all the grant recipients, a p
 1. Backend APIs
 2. Scripting
 
+## Project Scope
+
+* We believe this project can be done by 2 people focused on the backend (understanding uphold's API, actual building of script backend and documenting how to run/host the solution). 
+* If you would also like to tackle the frontend, 3-4 people is recommended. 
+
 ## Project contact
 Gabriel Golczer, gabriel@alumnusb.org
 
-## Questions
-
-- what are the inputs to this script? csv? excel?
-- credentials management will be interesting
-- This is backend heavy so I'd say 2 people for backend(figuring out upheld's api + building stuff, figuring out how to actually run/host the thing). 3-4 people if frontend is involved. Would say this is a solid medium.

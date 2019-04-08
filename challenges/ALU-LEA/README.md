@@ -16,9 +16,9 @@ Design and create an HTML donor leaderboards to recognize and encourage contribu
 - HTML, CSS, JavaScript
 - Data visualization
 
+## Project Scope
+
+* We believe this project is perfect for a team of 2 or 3 people to take on. This is a small to medium effort project.
+
 ## Project contact
 Gabriel Golczer, gabriel@alumnusb.org
-
-## Questions
-
-- this one's perfect for a few people(2-3) to take on. Would say this is a small to medium effort.

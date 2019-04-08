@@ -27,13 +27,3 @@ Build a system to manage electronic signatures for official documentation issued
 ## Project contact
 
 Gabriel Golczer, gabriel@alumnusb.org
-
-## Questions
-
-- this one's really big. i wonder what kind of pre-work can be done to break this down a bit.
-- what kind of digital signature services, if any, can be used? what are the legal requirements here
-  and how can we make sure we conform? open source options?
-- storing docs alone will be one project(frontend to upload, send email/notifications once ready,
-  store signed and unsigned side by side, expiry, etc)
-- authentication bits will be interesting. can we assume that'll be done for us already?
-- i'd say this is a large project for sure but very parallelizable.

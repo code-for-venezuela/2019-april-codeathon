@@ -48,13 +48,3 @@ In order to create more awareness about this issue, we would like to create a pl
 ## Project contacts
 
 1. Tamara Taraciuk, TODO
-
-## Questions/Comments
-
-This one's another pretty big one. There are two-three parts:
-
-1. parse the data
-2. make it available via an api
-3. do something cool using that api
-
-I'd try to scope this one down by assuming a tool to aggregate data such as [socrata](https://dev.socrata.com/). I'd say this is a medium to large. 4-5 people depending on how complex the input dataset is.
