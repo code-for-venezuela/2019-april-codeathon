@@ -29,7 +29,7 @@ _Medicos por la Salud_ is a network of doctors distributed across the country th
 
 ## Problem Statement
 
-Venezuela has seen an unprecedented increase in cases of malaria, measles, iphtheria and zika.
+Venezuela has seen an unprecedented increase in cases of malaria, measles, diphtheria and zika.
 
 _References_
 
