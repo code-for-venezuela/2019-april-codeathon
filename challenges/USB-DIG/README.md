@@ -3,7 +3,6 @@
 ## Who we are
 Universidad Simón Bolívar is a public university in Miranda state. It is the most prestigious science and technology university in Venezuela, and one of the leading ones in South America. The following challenge is presented by the DACE (Dirección de Admisión y Control de Estudios).
 
-
 ## Problem statement
 Documents issued by the university, such as grade reports, need to be signed by one or more people to be considered official.
 
@@ -22,6 +21,8 @@ Build a system to manage electronic signatures for official documentation issued
 2. Backend and security
 3. Digital signatures
 4. Spanish proficiency is **strongly recommended**.
+5. Java
+6. Postgres
 
 ## Project contact
 

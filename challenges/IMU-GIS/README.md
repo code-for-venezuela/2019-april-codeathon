@@ -1,9 +1,5 @@
 # GIS Database for Caracas
 
-## TL;DR
-
-TODO
-
 ## Background
 
 ### Who we are
