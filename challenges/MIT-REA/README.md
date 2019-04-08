@@ -20,7 +20,7 @@ MIT ReACT provides a certificate in Computer and Data Science for displaced popu
 
 MIT ReACT and Code For Venezuela are partnering to expand this program and take it to Venezuelans. There are over [three million](https://www.unhcr.org/news/press/2018/11/5be4192b4/number-refugees-migrants-venezuela-reaches-3-million.html) forcibly displaced Venezuelans around the world who have been forced to leave their homes  and seek asylum or resettlement in a new country.
 
-However, MIT ReACT and Code for Venezuela have a big challenge. **It is hard to track the location of displaced Venezuelans to  engage them and promote this program.**
+However, MIT ReACT and Code for Venezuela have a big challenge. **It is hard to track the location of displaced Venezuelans to engage them and promote this program.**
 
 ## Challenge
 
@@ -32,6 +32,9 @@ The solution should provide answers to the following questions:
 * Where are the graduates of Venezuelan universities abroad? From which universities? Where are they working?
 * Which universities in Venezuela have Computer Science programs?
 * Which institutions/organizations are promoting and developing tech talent in the country?
+
+TODO: I don't see a solution that doesn't involve self reporting and crowsourcing. Perhaps add some examples of the range of solutions to don't discourage people to try several things. Also, this sounds like a challenge that a bunch of teams.
+can help.
 
 ## Skills needed
 

@@ -11,6 +11,8 @@ We'll add the leaderboards to our website so we can encourage more alumni and fr
 ## Challenge
 
 Design and create an HTML donor leaderboards to recognize and encourage contributions to AlumnUSB.
+The leaderboards shall support a dynamic data source as well as display correctly in all form factorg
+(eg: smartphones).
 
 ## Skills needed
 - HTML, CSS, JavaScript

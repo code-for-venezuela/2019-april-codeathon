@@ -6,6 +6,9 @@
 
 The Instituto Metropolitano de Urbanismo -Taller Caracas is an entity associated with the Central University of Venezuela with the mission of advancing best practices in urban planning and effective land use policy. The IMU maintains close relation with different universities, technical and scientific institutions in Caracas, as well as the municipal governments. Zulma Bolivar, the president of the IMU has been leading the effort to develop the public space chapter of Plan Pais.
 
+TODO:
+Define what is Plan Pais:
+
 ### Problem statement
 
 Most capital cities in the world rely on a database of geospatial data in order to manage resources and coordinate projects. The types of data to be displayed may include maps of roadways, buildings, public amenities, service infrastructure, demographic data, socioeconomic indicators, etc.
@@ -14,7 +17,7 @@ Much of this information can be made accessible to the public through open porta
 
 ## Challenge
 
-Build a publicly accessible platform for uploading, visualizing and downloading non-sensitive GIS (Geographic Information System) data.
+Build a publicly accessible portal for uploading, visualizing and downloading non-sensitive GIS (Geographic Information System) data.
 
 Some examples that you could use as a model:
 1. https://data.buenosaires.gob.ar/dataset?groups=urbanismo-y-territorio

@@ -140,7 +140,6 @@ Once the data is curated and traditional ML techniques can be applied to it, the
 
 **NOTE: Projects 1, 2, 3 are orthogonal and you don't need to solve them all. They could be split between different teams in the Hackathon. Project 4 is aspirational and depends on 2.**
 
-
 ## Skills Required
 
 1. Data engineering
