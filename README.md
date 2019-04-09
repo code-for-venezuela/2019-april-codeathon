@@ -47,6 +47,8 @@ Neither Code for Venezuela nor our partner organization will retain ownership of
 1. Each team will present a 3 minute demo on their work.
 2. You can record a video and we will present it on site as a part of the final presentations.
 3. **Deadline**: Sunday 14, 4:30pm Pacific Time.
+    1. This deadline applies globally, so mind the timezones and plan your work and submission accordingly.
+    2. If your location, in addition to the global evaluations, offers any kind of prizes locally, you'll have to submit your solutions according to the local schedule to be eligible for that. Reach out to your local organizers for details!
 4. **Submission process**:
     1. Use Loom to record the video of the demo: [https://www.useloom.com](https://www.useloom.com)
     2. Post your video to [Slack](https://codeforvenezuela.slack.com/messages/CH5JMFBB2)
