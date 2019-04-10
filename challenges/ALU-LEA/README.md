@@ -1,4 +1,4 @@
-# AlumnUSB donor leaderboard
+# Visualizing the experience of women migrants
 
 ## Who we are
 AlumnUSB is a non-profit organization that raises funds for Universidad Simón Bolivar. It has several programs to help the university fulfill its academic mission, including sourcing goods (equipment for laboratories, classrooms, offices, and supplies) and providing grants in the form of scholarships and teaching awards. AlumnUSB is run by USB alumni volunteers around the world who volunteer their time.
