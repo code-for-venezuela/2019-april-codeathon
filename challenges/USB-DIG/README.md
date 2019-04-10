@@ -10,11 +10,12 @@ Requests for signed documents have increased in recent years, and the current pr
 
 We want to migrate to a web-based system where users can log in, examine documents that are sent to them for verification, and digitally sign them.
 
-To provide more context, a [document](https://github.com/code-for-venezuela/2019-april-sf-hackhathon/files/2949796/USB.proyecto.firma.electronica.documentos.pdf) with a set of requirements is provided to this challenge.
+Here's a [description](https://github.com/code-for-venezuela/2019-april-sf-hackhathon/files/2949796/USB.proyecto.firma.electronica.documentos.pdf) of the ideal system that the university wants. A submission to this challenge doesn't need to fulfill every requirement, but rather should be a low-fidelity prototype to start a conversation with the university.
 
 ## Challenge
 
 Build a system to manage electronic signatures for official documentation issued by Universidad Simón Bolívar.
+s
 
 ## Skills needed
 1. Frontend
@@ -26,4 +27,6 @@ Build a system to manage electronic signatures for official documentation issued
 
 ## Project contact
 
-Gabriel Golczer, gabriel@alumnusb.org
+Alejandro Machado, alejandro@alumnusb.org
+
+Please get in touch to get examples of digitally signed documents used by other universities and extra guidance provided by university authorities.
