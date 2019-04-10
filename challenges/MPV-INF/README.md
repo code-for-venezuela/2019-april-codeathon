@@ -118,17 +118,26 @@ Due to the issues highlighted above, we are proposing the following set of chall
 
 Create a data pipeline that would keep ingesting these tweets and that can potentially use Twitter's premium APIs to keep an up to date stream of [#ServicioPublico](https://twitter.com/hashtag/ServicioP%C3%BAblico?src=hash) tweets.
 
+This pipeline should provide a reliable way of ingesting Twitter data for `#ServicioPublico` and ideally should provide a way to find whenever any issues arise during ingestion.
+
 
 #### 2. Data set enrichment
 
-The data in its current state does not have enough information to create predictive models so we need to extend it. Here are some ideas in this direction:
+The data in its current state does not have enough information to create predictive models so we need to extend it and analyse it. Here are some ideas in this direction:
+
+* **Tweet De-duplication**: as a first step, how do we remove duplicated tweets so that posterior analysis are not misleading due to some popular tweets.
+* **Change Point Detection**: use [Change Point Detection](https://en.wikipedia.org/wiki/Change_detection) to determine times when these tweets suddenly become more common.
 * **NLP analysis**: Build a tool/pipeline that, given the data from Twitter, can understand whether a specific tweet is requesting a specific medicine so that identical medicines can be grouped together. This would require using NLP on tweets in Spanish.
+
+A possible outcome of NLP could be providing descriptive statistics of medicine requests vs others (beds, materials, electricity).
 * **Geolocate the Tweet**: At the moment, tweets do not have geolocation data. Can you find ways to get this information (e.g querying Twitter API, inferring location by detecting locations or users, etc)
 * **Medicine to disease mapping**: Once we get information about medicines in a tweet, we will need to create training data set that maps those tweets to diseases that are cured with those medicines.
 
 #### 3. **Data Visualization**
 
 Visualize the data given to see whether some patterns emerge over time. One motivating question would be: which medicines are requested more often during specific times?
+
+Visualization can aid in detecting points in time where the number of tweets requesting medicine and or medical equipment has significantly changed.
 
 #### 4. Predictive Models
 
