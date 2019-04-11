@@ -12,7 +12,8 @@ Here are a few things that we want you to have in mind:
 
 0. We don't expect to have fully fleshed out solutions to the challenges proposed for this Hackathon. We want you to have fun while working on projects that have the potential to make a difference in Venezuela.
 1. This community is real! We are very excited to see people from so many parts of the world getting together for this event, let's embrace our community and nurture it.
-2. If you really like one of the challenges and would like to continue working on it after the Hackathon, please reach out! We would like to form brigades that continue to work on this problems beyond the scope of this weekend. 
+2. If you like one of the challenges and would like to continue working on it after the Hackathon, please reach out! We want to form brigades that continue to work on these problems beyond the scope of this weekend. 
+ 
 
 ## During the Event
 
