@@ -1,10 +1,19 @@
 # Code for Venezuela - April 2019 Codeathon
 
-This repo contains all the information needed for both in-person and remote participation in the event.
+This repo contains all the information needed for both in-person and remote participation in the event. 
 
-## Before the Event
+First, let us take a moment to say thank you! You are awesome and we really appreciate the time and effort you are putting into this. 
 
-TODO
+## What to expect from this Hackathon? 
+
+The ultimate goal of this Hackathon is to bootstrap a network of people that would like to help with the current Venezuelan situation — making sure that we use our skills and energies towards initiatives that have a direct impact in the country.
+
+Here are a few things that we want you to have in mind:
+
+0. We don't expect to have fully fleshed out solutions to the challenges proposed for this Hackathon. We want you to have fun while working on projects that have the potential to make a difference in Venezuela.
+1. This community is real! We are very excited to see people from so many parts of the world getting together for this event, let's embrace our community and nurture it.
+2. If you like one of the challenges and would like to continue working on it after the Hackathon, please reach out! We want to form brigades that continue to work on these problems beyond the scope of this weekend. 
+ 
 
 ## During the Event
 
@@ -13,7 +22,7 @@ TODO
     2. We want to bring together: developers, PMs, Data scientists, designers etc.
     3. A team could be made up of engineers only or a mix of cross-discipline teammates.
     4. We encourage freedom to innovate and be creative.
-    5. Recommended team size: 3 to 5 people.
+    5. Recommended team size: 3 to 5 people. Ideally in the same location you are participating from. This will make it easier to collaborate! 
 2. **Logistics:**
     1. Slack will be the main communication channel for the event. Please use [#hackathon-ga](https://codeforvenezuela.slack.com/messages/CH5JMFBB2) to post questions and requests.
     2. Streaming: When there are talks or workshops, we will make sure we have a video stream available for remote participants. We will post the links in [#hackathon-ga](https://codeforvenezuela.slack.com/messages/CH5JMFBB2).
@@ -30,7 +39,12 @@ The focus of the event would be in the following areas:
 
 If you want to work on a challenge that is not by our partner organization, you are welcome to do so! Share you challenge in [#hackathon-ga](https://codeforvenezuela.slack.com/messages/CH5JMFBB2).
 
+It is highly likely that there will be more teams than challenges, but fear not! Nothing like tackling problems from different angles to find creative and interesting solutions. 
+
+### Licencing 
+
 Neither Code for Venezuela nor our partner organization will retain ownership of your code. Finished work should be licensed under either Apache or MIT open source licenses so that it can continue to benefit the non-profits
+
 
 | Challenge Code                                                                                       | Description                                                                                                                         | Slack Channel |
 |------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------|
@@ -97,7 +111,9 @@ The following cities are hosting remote locations for the Hackathon. Please chec
 
 ### Remote Mentor
 
-Guidelines During the Hackathon, there will be one of our team members (Juan Campa), monitoring all the slack channels for the remote locations. He will be answering questions and making sure your requests are funneled back to the team in SF.
+There will be team members monitoring all the Slack channels for the remote locations. They will be answering questions and making sure your requests are funneled back to the team in SF.
+
+Mentors will publish their schedule on Slack and let you know when they are available in channel. 
 
 ## Contact info
 If you have any questions email us at contact at codeforvenezuela.org
