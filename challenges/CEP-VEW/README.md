@@ -20,8 +20,8 @@ REDAC website: https://activistasciudadanos.org.ve/
 - Data visualization
 
 ## Project contact
-
-Bibi (Beatriz) Borges
+- Mayra Madrid (@mayra in Slack)
+- Bibi (Beatriz) Borges
 
 ## Biography:
 
