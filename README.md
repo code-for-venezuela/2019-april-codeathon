@@ -6,7 +6,7 @@ First, let us take a moment to say thank you! You are awesome and we really appr
 
 ## What to expect from this Hackathon? 
 
-The ultimate goal of this Hackathon is to bootstrap a network of people that would like to help with Venezuelan current situation. Making sure that we use our skill and energies towards initiatives that have direct impact in the country.
+The ultimate goal of this Hackathon is to bootstrap a network of people that would like to help with the current Venezuelan situation — making sure that we use our skill and energies towards initiatives that have a direct impact in the country.```
 
 Some ideas that we want you to have in mind:
 
