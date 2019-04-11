@@ -38,7 +38,7 @@ The focus of the event would be in the following areas:
 
 If you want to work on a challenge that is not by our partner organization, you are welcome to do so! Share you challenge in [#hackathon-ga](https://codeforvenezuela.slack.com/messages/CH5JMFBB2).
 
-It is highly likely that there will be more teams than challenges. But fear not! Nothing like tackling problems from different angles to find creative and interesting solutions. 
+It is highly likely that there will be more teams than challenges, but fear not! Nothing like tackling problems from different angles to find creative and interesting solutions. 
 
 ### Licencing 
 
