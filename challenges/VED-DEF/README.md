@@ -26,7 +26,7 @@ The data that Vendata.org has collected is avaliable in this Google Drive folder
      - Determine if there is additional and more current information on this topic available on the web.
 
 ## Skills needed
-Data Analysis, NLP, Data Visualization
+Data Analysis, Data Visualization
 
 ## Project contact
 Katherine Pennacchio vendataorg@gmail.com
