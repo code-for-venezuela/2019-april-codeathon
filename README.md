@@ -8,7 +8,7 @@ First, let us take a moment to say thank you! You are awesome and we really appr
 
 The ultimate goal of this Hackathon is to bootstrap a network of people that would like to help with the current Venezuelan situation — making sure that we use our skill and energies towards initiatives that have a direct impact in the country.```
 
-Some ideas that we want you to have in mind:
+Here are a few things that we want you to have in mind:
 
 0. We don't expect to have fully fleshed solutions to the challenges proposed for this Hackathon. We want you to have fun while working on projects that have the potential to make a difference in Venezuela.
 1. This community is real! Let's embrace it and nurture it. We've been so excited to see people from so many parts of the world getting together for this event. 
