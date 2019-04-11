@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/code-for-venezuela/2019-april-codeathon/master/assets/alumnUSB.png" alt="AlumnUSB" width="100" />
+
 # AlumnUSB donor leaderboard
 
 ## Who we are
@@ -9,7 +11,6 @@ AlumnUSB maintains a log of all donations made to the organization. We would lik
 We'll add the leaderboards to our website so we can encourage more alumni and friends to donate, in the spirit of gamification.
 
 ## Challenge
-
 Design and create an HTML donor leaderboards to recognize and encourage contributions to AlumnUSB.
 
 ## Skills needed
@@ -17,8 +18,7 @@ Design and create an HTML donor leaderboards to recognize and encourage contribu
 - Data visualization
 
 ## Project Scope
-
-* We believe this project is perfect for a team of 2 or 3 people to take on. This is a small to medium effort project.
+We believe this project is perfect for a team of 2 or 3 people to take on. This is a small to medium effort project.
 
 ## Project contact
 Gabriel Golczer, gabriel@alumnusb.org

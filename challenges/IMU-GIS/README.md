@@ -1,10 +1,12 @@
+ <img src="https://raw.githubusercontent.com/code-for-venezuela/2019-april-codeathon/master/assets/imutc.jpg" alt="IMUTC" width="100" />
+
 # GIS Database for Caracas
 
 ## Background
 
 ### Who we are
 
-The Instituto Metropolitano de Urbanismo -Taller Caracas is an entity associated with the Central University of Venezuela with the mission of advancing best practices in urban planning and effective land use policy. The IMU maintains close relation with different universities, technical and scientific institutions in Caracas, as well as the municipal governments. Zulma Bolivar, the president of the IMU has been leading the effort to develop the public space chapter of Plan Pais.
+The Instituto Metropolitano de Urbanismo - Taller Caracas is an entity associated with the Central University of Venezuela with the mission of advancing best practices in urban planning and effective land use policy. The IMU maintains a close relationship with different universities, technical and scientific institutions in Caracas, as well as the municipal governments. Zulma Bolivar, the president of the IMU, has been leading the effort to develop the public space chapter of [Plan País](https://en.wikipedia.org/wiki/Plan_Pa%C3%ADs).
 
 ### Problem statement
 
@@ -25,4 +27,5 @@ Some examples that you could use as a model:
 
 ## Project contacts
 
-1. Zulma Bolivar
+1. Mayra Madriz (@mayra on Slack)
+2. Zulma Bolivar
