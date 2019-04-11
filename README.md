@@ -91,6 +91,9 @@ The following cities are hosting remote locations for the Hackathon. Please chec
   *   Bogota:
       *   POC: Anibal Rojas
       *   Slack Channel: [#c4v-bog](https://codeforvenezuela.slack.com/messages/CHEFD9KMW)
+  *   Buenos Aires:
+      *   POC: José Zambrano
+      *   Slack Channel: [#c4v-eze](https://codeforvenezuela.slack.com/messages/CHPPV5REC)
 
 ### Remote Mentor
 
