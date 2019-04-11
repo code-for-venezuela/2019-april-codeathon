@@ -5,15 +5,25 @@ NEXT-STEP is an organization offering a microfinance program, with experience in
 The Red Humanitaria de los Caminantes, a network of entities in Colombia provides charity services for the “caminantes” (“walkers”), Venezuelans on the go, emigrating to or through Colombia
 
 ## Problem statement
-Over 3 million Venezuelans have fled their homeland and are working to get settled in a new country. There is a need to unite, collaborate, meet, and rejoice around everything that is Venezuelan in the countries that they are emigrating. DiasporaVenezuela.app will help Venezuelans in any city to connect to each other and to opportunities. The app will serve as  “Punto de encuentro” (meeting point) for solidarity for Venezuelan abroad.
-
-
-The app will be developed in a “community” platform and will have four functionalities: events, promotions, job bank, and services. Services list organizations and the services they provide to the community by geolocation. The job bank list both the skills of Venezuelans individuals so they could be found by those that need such services (yellow pages) as well as job offerings (craigslist). Services refers to offers from charities, NGO and other organizations to provide humanitarian and social as well as economic empowerment assistance.
+Over 3 million Venezuelans have fled their homeland and are working to get settled in a new country. There is a need to support this community and having basic information about them will be key to developing solutions. 
 
 
 ## Challenge
 
-Build a system to manage electronic signatures for official documentation issued by Universidad Simón Bolívar.
+In that sense, we aim to tackle the “trust challenge” and tby inviting participants to the hackathon code for Venezuela to develop the following indicators over a Community platform:
+
+- Generate a data asset on where are Venezuelans. Find open data sources to create a dataset of where Venezuelans have migrated.
+
+- Create a data vizualization front end
+
+- Create a Registratino flow with geolocation verification indicator: a starts or bar index of how certain is the system that the user is in the location that the user claim to be.
+
+- Regional humanitarian need indicator: a humanitarian index able to provide an indication off the level of social assistance required at the location where the individual is located (e.g. an index proportionally inverse to the social development index)
+
+- Regional Work and Entrepreneurial Assistant indicator: an index to understand the economic context in terms of availability of employment (unemployment) or entrepreneurial means at the location of the individual.
+
+- Services recomendability indicator: a recommender system with a start or bar indicator for the organizations or entities providing services presented in list by region and by region matching the geolocation of a particular individual.
+
 
 ## Skills needed
 1. Frontend
@@ -25,4 +35,6 @@ Build a system to manage electronic signatures for official documentation issued
 
 ## Project contact
 
-Gabriel Golczer, gabriel@alumnusb.org
+Mayra Madriz mayra.madriz@gmail.com 
+Wolfgang Fernandez, NEXT STEP
+José Luis Muñoz, Empoderamiento, Trabajo y Emprendimiento Red HUmanitaria (Del Caminante) Colombia
