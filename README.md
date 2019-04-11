@@ -1,4 +1,4 @@
-![Code for Venezuela](https://raw.githubusercontent.com/code-for-venezuela/2019-april-codeathon/master/assets/c4v.png)
+<img src="https://raw.githubusercontent.com/code-for-venezuela/2019-april-codeathon/master/assets/c4v.png" alt="Code for Venezuela" width="100" />
 
 # Code for Venezuela - April 2019 Codeathon
 
