@@ -107,7 +107,7 @@ The following cities are hosting remote locations for the Hackathon. Please chec
 
 ### Remote Mentor
 
-There will be team members, monitoring all the slack channels for the remote locations. They will be answering questions and making sure your requests are funneled back to the team in SF.
+There will be team members monitoring all the Slack channels for the remote locations. They will be answering questions and making sure your requests are funneled back to the team in SF.
 
 Mentors will publish their schedule on Slack and let you know when they are available in channel. 
 
