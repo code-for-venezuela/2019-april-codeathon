@@ -5,7 +5,7 @@ Vendata is an organization with the mission of generating the largest collection
 
 During the first phase of the project we selected a sample documents and we defined the public interest topics that needed to be systematized in the database. Later, we established a basic structure and developed a web form of input. Each datum entered was checked and cleaned up.
 
-With the information available we conducted searches in the public records (Gaceta Oficial) regarding public enterprises, and annual reports as well as the investigations available in Vendata.org in partnership media sources and NGOs. The technology used for the creation of the web forms and the searched was PHP and SQL with complements from Java and Jquery.
+With the information available we conducted searches in the public records (Gaceta Oficial) regarding public enterprises, and annual reports as well as the investigations available in Vendata.org in partnership media sources and NGOs. The technology used for the creation of the web forms and the scraping was PHP and SQL with some smaller parts in Java and Jquery.
 
 
 ## Problem statement
