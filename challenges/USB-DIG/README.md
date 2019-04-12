@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/code-for-venezuela/2019-april-codeathon/master/assets/usb.png" alt="Universidad Simón Bolívar" width="80" />
+<img src="https://raw.githubusercontent.com/code-for-venezuela/2019-april-codeathon/master/assets/USB.png" alt="Universidad Simón Bolívar" width="80" />
 
 # USB Digital Document Signing
 
