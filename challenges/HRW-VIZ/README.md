@@ -1,9 +1,10 @@
+ /*<img src="https://raw.githubusercontent.com/code-for-venezuela/2019-april-codeathon/master/assets/medicosporlasalud.jpg" alt="Medicos por la Salud" width="80" />*/
+
 # Open Data and Venezuelan Health Indicators
 
 ## Background
 
 ### Who we are
-
 Human Rights Watch investigates and reports on abuses happening in all corners of the world. We are roughly 450 people of 70-plus nationalities who are country experts, lawyers, journalists, and others who work to protect the most at risk, from vulnerable minorities and civilians in wartime to refugees and children in need.
 
 We direct our advocacy towards governments, armed groups, and businesses, pushing them to change or enforce their laws, policies, and practices. To ensure our independence, we refuse government funding and corporate ties. We partner with organizations large and small across the globe to protect embattled activists and to help hold abusers to account and bring justice to victims.
@@ -32,10 +33,10 @@ In order to create more awareness about this issue, we would like to create a pl
         1. Explore partnerships with [DataDrum](datadrum.org), [Transparencia Venezuela](https://transparencia.org.ve/) and [Vendata](vendata.org).
         2. Can we make these reports available through their platforms?
 2. **Visualization and Outreach**: in order to create awareness about these issues, we want to present this data in a way that is easy to understand by the general public and easy to distribute. The goal of this project is to find creative ways to achieve this. Here are some directions:
-    1. Create a "bar chart race" visualization (like [this](https://www.youtube.com/watch?v=dwZ6B5kalbQ)) using data provided by HRW and PAHO for diseases in Venezuela and how they compare to other parts of the world? 
-    2. Using the data from Boletin Epidemiológico, develop maps and dashboards for each Venezuela state? 
+    1. Create a "bar chart race" visualization (like [this](https://www.youtube.com/watch?v=dwZ6B5kalbQ)) using data provided by HRW and PAHO for diseases in Venezuela and how they compare to other parts of the world?
+    2. Using the data from Boletin Epidemiológico, develop maps and dashboards for each Venezuela state?
     3. Explore the correlation between these diseases and mortality rates.
-    4. Explore cases per capita compared to other countries. 
+    4. Explore cases per capita compared to other countries.
 
 
 ### Skills Required

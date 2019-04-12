@@ -8,7 +8,7 @@ The ultimate goal of this challenge is to create predictive models using Twitter
 1. Detect epidemic outbreaks.
 2. Identify where a particular medicine is needed in the country.
 
-**NOTE:We don't expect this challenge to be completed during the Hackathon, the goal is to set the foundational work that will allow to solve this problem.**
+**NOTE: We don't expect this challenge to be completed during the Hackathon, the goal is to set the foundational work that will allow us to solve this problem.**
 
 ## Background
 
@@ -37,7 +37,7 @@ _References_
 
 [Venezuela crisis threatens disease epidemic across continent - experts](https://www.theguardian.com/global-development/2019/feb/21/venezuela-crisis-threatens-disease-epidemic-across-continent-experts)
 
-On top of this, medicine scarcity is one of the most severe problems that Venezuela faces today. Hospitals can go without essential medications like adrenaline, insulin and anaesthetics for months at a time.
+On top of this, medicine scarcity is one of the most severe problems that Venezuela faces today. Hospitals can go without essential medications like adrenaline, insulin, and anesthetics for months at a time.
 
 Dr. Julio Castro and his team have been conducting surveys in hospitals nationwide to keep track of where specific medications are most needed. They have also been collecting a database of more than 1 million tweets that contain medical supply requests, emergency data, and other indicators.
 
@@ -52,7 +52,7 @@ Dr. Julio Castro has shared the Twitter data they have been collecting. Code For
 
 ### Data Summary
 
-We have a little bit over 1M tweets containing hashtags related to [#ServicioPublico](https://twitter.com/hashtag/ServicioP%C3%BAblico?src=hash), which is a popular hashtag used in Venezuela whenever a specific medicine or medical treatment is being searched by Venezuelans. It provides a mean to connect people who need to find specific medicines with people in different parts of the country that might have access to that medicine.
+We have a little bit over 1M tweets containing hashtags related to [#ServicioPublico](https://twitter.com/hashtag/ServicioP%C3%BAblico?src=hash), which is a popular hashtag used in Venezuela whenever a specific medicine or medical treatment is being searched by Venezuelans. It provides a way to connect people who need to find specific medicines with people in different parts of the country that might have access to that medicine.
 
 
 <table>
@@ -103,7 +103,7 @@ Raw data is available [here](https://drive.google.com/open?id=1Y0dA_EaNPOmEyCaJC
 We found the following issues with the data:
 
 *   Data might be incomplete. According to the Twitter API descriptions, we believe that the data ingested by Dr. Castro might be only a sample of the data from the hashtag specified above. This is because you need access to the Enterprise or Premium APIs to get all tweets matching a specific query instead of a sample of them.
-*   There are duplicates in this data, meaning that popular tweets will be over represented.
+*   There are duplicates in this data, meaning that popular tweets will be over-represented.
 *   We don't have any labeled data that we could use to correlate these tweets to, for example, outbreak diseases.
 
 This should be problems that could be handled during the hackathon by different teams.
@@ -123,7 +123,7 @@ This pipeline should provide a reliable way of ingesting Twitter data for `#Serv
 
 #### 2. Data set enrichment
 
-The data in its current state does not have enough information to create predictive models so we need to extend it and analyse it. Here are some ideas in this direction:
+The data in its current state does not have enough information to create predictive models so we need to extend it and analyze it. Here are some ideas in this direction:
 
 * **Tweet De-duplication**: as a first step, how do we remove duplicated tweets so that posterior analysis are not misleading due to some popular tweets.
 * **Change Point Detection**: use [Change Point Detection](https://en.wikipedia.org/wiki/Change_detection) to determine times when these tweets suddenly become more common.

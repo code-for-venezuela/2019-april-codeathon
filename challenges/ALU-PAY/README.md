@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/code-for-venezuela/2019-april-codeathon/master/assets/alumnUSB.png" alt="AlumnUSB" width="100" />
+
+
 # Automating scholarship payments
 
 ## Who we are
@@ -20,9 +23,8 @@ An AlumnUSB member must manually send transfers to all the grant recipients, a p
 
 ## Project Scope
 
-* We believe this project can be done by 2 people focused on the backend (understanding uphold's API, actual building of script backend and documenting how to run/host the solution). 
-* If you would also like to tackle the frontend, 3-4 people is recommended. 
+* We believe this project can be done by 2 people focused on the backend (understanding uphold's API, actual building of script backend and documenting how to run/host the solution).
+* If you would also like to tackle the frontend, 3-4 people is recommended.
 
 ## Project contact
 Gabriel Golczer, gabriel@alumnusb.org
-
