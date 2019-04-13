@@ -10,6 +10,9 @@ AlumnUSB maintains a log of all donations made to the organization. We would lik
 
 We'll add the leaderboards to our website so we can encourage more alumni and friends to donate, in the spirit of gamification.
 
+Two csv files are provided as part of this challenge that you can use to create the leader board:
+- [Donations info](donations_code4vzla.csv)
+- [Contact Information Sample](mockcontacts_codevzla.csv)
 ## Challenge
 Design and create an HTML donor leaderboards to recognize and encourage contributions to AlumnUSB.
 
