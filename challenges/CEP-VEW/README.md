@@ -13,6 +13,8 @@ In order to better understand the situation, last year CEPAZ surveyed 700 Venezu
 ## Challenge
 Analyze the survey data and visualize some of the most significant findings.
 
+**Note: the survey data is pinned to the Slack Channel #chal-cep-wev**
+
 REDAC website: https://activistasciudadanos.org.ve/
 
 
