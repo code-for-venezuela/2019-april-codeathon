@@ -31,15 +31,10 @@ Here are a few things that we want you to have in mind:
 
 ## Challenges
 
-The focus of the event would be in the following areas:
-
-* Using data to analyze, understand and communicate the Venezuelan crisis.
-* Digital products and platforms to connect the diaspora with the country.
-
 1. In the `challenges` folder you will find a list of challenges proposed by our partner organizations. Please take time to review them before the event. The more prepared, the more chances your team will have of making good progress during the weekend!
 2. Each challenge will have a dedicated Slack channel where you could ask questions and get clarifications. The slack channel for a channel follows the following convention: chal-*challenge_code*. (e.g #[chal-mpv-inf](https://codeforvenezuela.slack.com/messages/CHEG10M7S), [#chal-mit-rea](https://codeforvenezuela.slack.com/messages/CH875RP7T))
 
-If you want to work on a challenge that is not by our partner organization, you are welcome to do so! Share you challenge in [#hackathon-ga](https://codeforvenezuela.slack.com/messages/CH5JMFBB2).
+If you want to work on a challenge that is not by our partner organizations, you are welcome to do so! Share you challenge in [#hackathon-ga](https://codeforvenezuela.slack.com/messages/CH5JMFBB2).
 
 It is highly likely that there will be more teams than challenges, but fear not! Nothing like tackling problems from different angles to find creative and interesting solutions.
 
@@ -66,17 +61,20 @@ Neither Code for Venezuela nor our partner organization will retain ownership of
 ## Demos and Presentations
 
 ### Deadline
-*Deadline for project submission: Sunday 14, 4:30pm Pacific Time.*
+**Deadline for project submission: Sunday 14, 4:30pm Pacific Time.**
 1. This deadline applies globally, so mind the timezones and plan your work and submission accordingly.
 2. If your location, in addition to the global evaluations, offers any kind of prizes locally, you'll have to submit your solutions according to the local schedule to be eligible for that. Reach out to your local organizers for details!
 
 ### Submission Guidelines
-1. Each team will present a 3 minute demo on their work
-2. **Remote teams:** You can record a video and we will present it on site as a part of the final presentations.
-3. **Submission process**:
-    1. Use Devpost to submit your project, the reviewing panel will only review projects that are uploaded there.
-    2. Use Use Loom to record the video of the demo: [https://www.useloom.com](https://www.useloom.com)
-    3. Post your video in the  to [Slack](https://codeforvenezuela.slack.com/messages/CH5JMFBB2)
+
+Each team will present a 3 minute demo on their work. *Remote teams* can record a video and we will present it on site as a part of the final presentations.
+
+**Submission process:**
+We will use [**Devpost**](https://c4v-sf-codeathon.devpost.com/) to manage the submission process, *the reviewing panel will only review projects that are uploaded there.*
+
+1. Go to the [main project site](https://c4v-sf-codeathon.devpost.com/) and start your submission by clicking the **Get Started** button.  
+2. We recommend using Loom to record the video of the demo: [https://www.useloom.com](https://www.useloom.com)
+3. Post your video in the submission and feel free to post to [Slack](https://codeforvenezuela.slack.com/messages/CH5JMFBB2) as well.
 
 ### Feedback
 All participants are invited to watch the feedback from our panelists. This will happen at 4:30PM PST, Sunday 14th and will be live streamed. If you can't join live, we will let you know via Slack on Monday 04/15 any feedback from our panelists.
