@@ -1,0 +1,988 @@
+Country,Cohorte,Undergrad Degree,Graduate Degree,CodeAlumnUSB,LastName,Name,Tier
+USA,81,Arquitecto,,A10020,Doe,Jane,Silver
+Argentina,81,Ing. Electronico,,A10022,Doe,Jane,Silver
+Argentina,,Turismo,,A10067,Doe,Jane,Bronce
+Espana,,TSU en Tecnologia Electronica,,A10088,Doe,Jhon,Silver
+USA,,Arquitecto,,A10150,Doe,Jhon,Silver
+Argentina,,TSU en Organizacion Empresarial,,A10275,Doe,Jhon,Bronce
+Canada,,TSU en Organizacion Empresarial,,A10381,Doe,Jhon,Silver
+Reino Unido,,Arquitecto,,A10396,Doe,Jane,Silver
+USA,83,Arquitecto,,A10434,Doe,Jhon,Silver
+Reino Unido,82,Ing. de Materiales,,A10479,Doe,Jane,Silver
+Reino Unido,,Ing. Electronico,,A10595,Doe,Jane,Silver
+Mexico,83,Ing. de Materiales,,A10659,Doe,Jane,Bronce
+USA,84,Lic. en Biologia,Maestria en Ciencias Biologicas,A10725,Doe,Jane,Silver
+Canada,,Ing. de Computacion,,A10758,Doe,Jane,Silver
+Canada,86,Ing. Mecanico,,A10762,Doe,Jhon,Silver
+USA,,TSU en Administracion Hotelera,,A10804,Doe,Jhon,Gold
+Espana,83,Arquitecto,,A10839,Doe,Jane,Bronce
+,,,Especializacion en Informatica Educativa,A11092,Doe,Jane,Bronce
+Venezuela,,Ing. Electricista,,A11104,Doe,Jhon,Bronce
+,85,Ing. Electronico,,A11158,Doe,Jhon,Bronce
+,,Lic. en Quimica,,A1118,Doe,Jane,Bronce
+Costa Rica,,Ing. de Computacion,Especializacion en Finzas de la Empres,A11223,Doe,Jhon,Bronce
+Venezuela,,Lic. en Quimica,,A1123,Doe,Jane,Bronce
+,,Lic. en Matematica,Maestria en Matematicas,A11283,Doe,Jhon,Bronce
+,,,Especializacion en Diseno y Mantenimient,A11430,Doe,Jhon,Bronce
+,,,Maestria en Ciencia Politica,A11479,Doe,Jane,Bronce
+,71,Ing. Quimico,,A1159,Doe,Jane,Bronce
+Venezuela,,Ing. de Materiales,,A11663,Doe,Jhon,Bronce
+Arabia Saudita,79,Ing. de Computacion,Maestria en Ingenieria de Sistemas,A11682,Doe,Jhon,Silver
+,,Arquitecto,,A1173,Doe,Jane,Bronce
+,,,Maestria en Ingenieria de Sistemas,A11790,Doe,Jhon,Bronce
+USA,80,Ing. de Computacion,,A11808,Doe,Jane,Bronce
+Espana,76,Lic. en Fisica,,A11892,Doe,Jhon,Bronce
+,81,Ing. Electronico,,A12029,Doe,Jhon,Bronce
+USA,79,Ing. de Materiales,,A12031,Doe,Jane,Silver
+Venezuela,83,Arquitecto,,A12051,Doe,Jhon,Bronce
+,71,Ing. Mecanico,,A1220,Doe,Jhon,Bronce
+Reino Unido,80,Ing. Electronico,,A12345,Doe,Jhon,Bronce
+,84,Ing. de Computacion,Maestria en Ingenieria de Sistemas,A12350,Doe,Jane,Bronce
+,87,Ing. Electronico,,A12351,Doe,Jane,Bronce
+,,Ing. Electronico,,A12468,Doe,Jane,Bronce
+USA,85,Ing. de Materiales,,A12500,Doe,Jane,Silver
+,,,Maestria en Ciencias Biologicas,A12567,Doe,Jhon,Bronce
+,,,Doctorado en Desarrollo Sostenible,A12695,Doe,Jane,Bronce
+,83,Lic. en Quimica,,A12736,Doe,Jhon,Bronce
+Venezuela,,Turismo,,A12793,Doe,Jane,Bronce
+Venezuela,89,Lic. en Matematica,Maestria en Matematicas,A12802,Doe,Jane,Bronce
+,,Ing. Electronico,,A12843,Doe,Jhon,Bronce
+,,Ing. Quimico,,A1306,Doe,Jhon,Bronce
+,81,Ing. de Computacion,,A13093,Doe,Jane,Bronce
+,81,Ing. Electricista,,A13154,Doe,Jhon,Bronce
+Alemania,,Ing. de Materiales,,A13169,Doe,Jane,Silver
+,83,Ing. Quimico,,A13236,Doe,Jhon,Bronce
+,,Ing. de Computacion,,A13261,Doe,Jhon,Bronce
+,92,Ing. Mecanico,Especializacion en Diseno y Mantenimient,A13294,Doe,Jane,Bronce
+USA,,Arquitecto,,A1330,Doe,Jane,Gold
+,,,Maestria en Desarrollo y Ambiente,A13345,Doe,Jane,Bronce
+,87,Ing. de Computacion,,A13440,Doe,Jhon,Bronce
+,,,Maestria en Ingenieria Empresarial,A13444,Doe,Jane,Bronce
+,87,Ing. Electronico,,A13457,Doe,Jane,Bronce
+Panama,84,Ing. Mecanico,,A13534,Doe,Jhon,Silver
+,,,Especializacion en Confiabilidad de Sist,A13581,Doe,Jane,Bronce
+,86,Ing. de Computacion,,A13603,Doe,Jane,Bronce
+,,,Especializacion en Diseno y Mantenimient,A13682,Doe,Jhon,Bronce
+,,Arquitecto,,A13715,Doe,Jhon,Bronce
+Colombia,,Turismo,,A13828,Doe,Jane,Bronce
+Venezuela,,,Maestria en Quimica,A1389,Doe,Jane,Bronce
+Chile,86,Ing. Electricista,,A13919,Doe,Jane,Silver
+,86,Lic. en Biologia,,A13926,Doe,Jane,Bronce
+,87,Ing. Electricista,,A14015,Doe,Jane,Bronce
+USA,,TSU en Organizacion Empresarial,,A14022,Doe,Jane,Gold
+Venezuela,,Ing. Electricista,Especializacion en Instalaciones Electri,A14023,Doe,Jane,Bronce
+,86,Ing. Mecanico,,A14086,Doe,Jhon,Bronce
+,86,Ing. de Computacion,,A14160,Doe,Jane,Bronce
+,,Ing. Mecanico,,A14218,Doe,Jane,Bronce
+,,Ing. Mecanico,,A14235,Doe,Jhon,Bronce
+,,,Especializacion en Gerencia de la Empres,A1424,Doe,Jhon,Bronce
+USA,87,Ing. Electronico,,A14283,Doe,Jane,Bronce
+Venezuela,87,Ing. Electronico,Especializacion en Gerencia de la Empres,A14304,Doe,Jane,Silver
+USA,90,Lic. en Quimica,,A14311,Doe,Jane,Bronce
+USA,,Turismo,,A14385,Doe,Jane,Bronce
+,92,TSU en Comercio Exterior,,A14440,Doe,Jhon,Bronce
+Venezuela,,Ing. de Computacion,,A14487,Doe,Jhon,Bronce
+,,Ing. Electronico,,A14488,Doe,Jane,Bronce
+USA,87,Ing. Electronico,,A14557,Doe,Jhon,Bronce
+,,Ing. Mecanico,,A14562,Doe,Jane,Bronce
+,88,Ing. de Computacion,,A14566,Doe,Jhon,Bronce
+Venezuela,,,Maestria en Musica,A14683,Doe,Jane,Bronce
+Arabia Saudita,,Ing. Quimico,,A14724,Doe,Jane,Silver
+Singapur,87,Ing. Electronico,,A14737,Doe,Jane,Gold
+,87,Ing. Electricista,,A15114,Doe,Jane,Bronce
+,,,Especializacion en Gerencia de Mercadeo,A15295,Doe,Jhon,Bronce
+,,TSU en Administracion Aduanera,,A15397,Doe,Jhon,Bronce
+,,Ing. Quimico,,A1540,Doe,Jhon,Bronce
+Panama,,Ing. de Materiales,,A1559,Doe,Jhon,Silver
+,,TSU en Tecnologia Electronica,,A15605,Doe,Jhon,Bronce
+,,Ing. Electronico,,A15644,Doe,Jane,Bronce
+Argentina,88,Ing. Electricista,,A15663,Doe,Jane,Bronce
+Alemania,,,Especializacion en Nutricion Clinica,A15750,Doe,Jane,Bronce
+Venezuela,94,,Maestria en Ciencias Biologicas,A15762,Doe,Jane,Bronce
+Venezuela,87,Ing. de Computacion,,A15820,Doe,Jane,Bronce
+Chile,,Ing. de Computacion,,A15882,Doe,Jhon,Silver
+Venezuela,,Lic. en Matematica,,A1600,Doe,Jhon,Bronce
+Chile,,TSU en Comercio Exterior,,A16055,Doe,Jhon,Bronce
+Venezuela,,,Especializacion en Gerencia de Auditoria,A16060,Doe,Jane,Bronce
+Canada,90,Ing. de Computacion,,A16142,Doe,Jhon,Bronce
+Espana,88,Ing. Mecanico,,A16289,Doe,Jhon,Bronce
+Venezuela,89,Ing. Quimico,,A16404,Doe,Jane,Bronce
+Venezuela,,TSU en Tecnologia Electronica,,A16640,Doe,Jane,Gold
+,,Ing. Electronico,,A1673,Doe,Jane,Bronce
+Espana,90,Ing. de Computacion,,A16822,Doe,Jane,Bronce
+,,,Maestria en Ingenieria Mecanica,A16915,Doe,Jhon,Bronce
+,,TSU en Tecnologia Mecanica,,A16922,Doe,Jhon,Bronce
+Australia,90,Ing. Mecanico,,A16954,Doe,Jane,Silver
+Reino Unido,92,Ing. Mecanico,,A17128,Doe,Jhon,Bronce
+,,Ing. Mecanico,,A1717,Doe,Jane,Bronce
+Reino Unido,,,Especializacion en Ingenieria Geotecnica,A17233,Doe,Jane,Gold
+,90,Lic. en Matematica,Maestria en Matematicas,A17330,Doe,Jane,Bronce
+,90,Ing. Electricista,,A17380,Doe,Jhon,Bronce
+,91,Ing. de Produccion,,A17461,Doe,Jane,Bronce
+Reino Unido,,Ing. Electronico,,A1747,Doe,Jhon,Silver
+USA,90,Arquitecto,Especializacion en Ingenieria Estructura,A17475,Doe,Jane,Silver
+Colombia,92,Ing. de Computacion,,A17535,Doe,Jhon,Bronce
+Panama,92,Ing. Quimico,,A17559,Doe,Jhon,Silver
+Espana,91,Ing. Quimico,,A17585,Doe,Jane,Bronce
+,,,Maestria en Desarrollo y Ambiente,A17602,Doe,Jhon,Bronce
+Francia,96,,Maestria en Ciencia Politica,A17652,Doe,Jane,Bronce
+,91,Ing. Quimico,,A17665,Doe,Jane,Bronce
+,,Ing. de Materiales,,A17678,Doe,Jane,Bronce
+Mexico,93,Ing. Mecanico,,A17843,Doe,Jane,Bronce
+,90,Ing. Electricista,Maestria en Ingenieria Biomedica,A17897,Doe,Jane,Bronce
+,,,Maestria en Ciencia Politica,A17959,Doe,Jhon,Bronce
+,,Ing. Quimico,,A18000,Doe,Jane,Bronce
+USA,91,Ing. Quimico,,A18109,Doe,Jhon,Bronce
+Canada,70,Ing. Electronico,,A1811,Doe,Jhon,Silver
+USA,,TSU en Organizacion Empresarial,,A18151,Doe,Jhon,Silver
+,,TSU en Organizacion Empresarial,,A18158,Doe,Jhon,Bronce
+Venezuela,,,Especializacion en Gestion de Servicios,A1820,Doe,Jhon,Bronce
+Panama,,TSU en Organizacion Empresarial,,A18226,Doe,Jane,Bronce
+,91,Ing. de Materiales,,A18257,Doe,Jhon,Bronce
+,,TSU en Mantenimiento Aeroutico,,A18408,Doe,Jhon,Bronce
+Panama,,Ing. Electronico,,A18436,Doe,Jhon,Bronce
+Colombia,93,Ing. Electricista,,A18504,Doe,Jhon,Bronce
+USA,,Ing. de Computacion,Especializacion en Gerencia de la Empres,A18513,Doe,Jane,Silver
+Venezuela,93,Ing. Electricista,,A18546,Doe,Jhon,Bronce
+Espana,94,Ing. Quimico,,A18696,Doe,Jhon,Bronce
+Peru,94,Ing. de Computacion,,A18737,Doe,Jane,Bronce
+,95,TSU en Mantenimiento Aeroutico,,A18988,Doe,Jane,Bronce
+,91,Ing. Electricista,,A19036,Doe,Jhon,Bronce
+Venezuela,91,Ing. Quimico,,A19125,Doe,Jane,Bronce
+,92,Ing. de Computacion,,A19142,Doe,Jane,Bronce
+Francia,92,Ing. Electronico,,A19143,Doe,Jhon,Gold
+,91,Ing. Mecanico,,A19158,Doe,Jane,Bronce
+USA,,,Maestria en Ciencia Politica,A19161,Doe,Jhon,Bronce
+Alemania,,,Especializacion en Diseno y Mantenimient,A19197,Doe,Jane,Bronce
+,,Ing. de Computacion,,A19198,Doe,Jane,Bronce
+,,TSU en Organizacion Empresarial,,A19294,Doe,Jane,Bronce
+USA,,Ing. Quimico,Maestria en Ingenieria Quimica,A19311,Doe,Jhon,Bronce
+USA,,Ing. de Computacion,,A19377,Doe,Jhon,Silver
+Malasia,92,Ing. Geofisico,,A19440,Doe,Jhon,Bronce
+,92,TSU en Administracion del Transporte,,A19451,Doe,Jhon,Bronce
+,,Turismo,,A19472,Doe,Jhon,Bronce
+,91,Ing. Quimico,,A19599,Doe,Jhon,Bronce
+Argentina,,TSU en Administracion Aduanera,,A19640,Doe,Jhon,Silver
+,,Ing. Mecanico,,A19753,Doe,Jhon,Bronce
+,93,Ing. Electronico,,A19774,Doe,Jane,Bronce
+,93,Ing. Mecanico,,A19805,Doe,Jhon,Bronce
+,,,,A19818,Doe,Jhon,Bronce
+USA,94,Lic. en Quimica,,A19820,Doe,Jane,Silver
+,92,Ing. de Materiales,,A19829,Doe,Jhon,Bronce
+,92,Ing. Mecanico,,A19892,Doe,Jane,Bronce
+,98,Ing. Mecanico,,A19898,Doe,Jane,Bronce
+Portugal,93,Ing. Electronico,,A19922,Doe,Jane,Bronce
+,,Ing. Electronico,,A19978,Doe,Jhon,Bronce
+Mexico,92,Ing. Mecanico,,A20022,Doe,Jhon,Bronce
+Venezuela,93,Ing. de Computacion,,A20071,Doe,Jane,Bronce
+Venezuela,92,Ing. de Materiales,,A20101,Doe,Jhon,Bronce
+,,TSU en Tecnologia Mecanica,,A20138,Doe,Jhon,Bronce
+,,Lic. en Biologia,,A20151,Doe,Jhon,Bronce
+Panama,94,Ing. de Computacion,,A20157,Doe,Jhon,Silver
+,92,Ing. de Produccion,,A20239,Doe,Jane,Bronce
+,,,Especializacion en Gerencia de la Empres,A20244,Doe,Jhon,Bronce
+USA,91,Ing. Mecanico,,A20261,Doe,Jhon,Silver
+Noruega,,Ing. Quimico,,A20264,Doe,Jane,Bronce
+,92,Ing. Electronico,,A20266,Doe,Jane,Bronce
+,,Ing. Geofisico,,A20316,Doe,Jane,Bronce
+,92,Ing. de Materiales,Especializacion en Gerencia de la Empres,A20405,Doe,Jhon,Bronce
+,94,Ing. Quimico,,A20456,Doe,Jane,Bronce
+Holanda,73,Urbanista,,A2048,Doe,Jhon,Bronce
+,2,Ing. de Materiales,,A20521,Doe,Jhon,Bronce
+,2,Ing. Electronico,,A20524,Doe,Jhon,Bronce
+Espana,72,Ing. de Computacion,,A2055,Doe,Jhon,Bronce
+,92,Ing. de Computacion,,A20578,Doe,Jhon,Bronce
+Holanda,92,Ing. Electronico,,A20583,Doe,Jane,Silver
+,,Ing. Quimico,,A20607,Doe,Jane,Bronce
+Mexico,,,Especializacion en Nutricion Clinica,A20634,Doe,Jhon,Bronce
+Portugal,95,TSU en Tecnologia Electrica,,A20676,Doe,Jhon,Bronce
+Venezuela,,,Maestria en Matematicas,A20679,Doe,Jane,Bronce
+Argentina,,Ing. Electronico,,A20706,Doe,Jhon,Bronce
+,93,Ing. Quimico,Especializacion en Ingenieria del Gas Na,A20773,Doe,Jhon,Bronce
+Venezuela,,TSU en Tecnologia Electronica,,A20929,Doe,Jane,Bronce
+USA,,Turismo,,A20962,Doe,Jhon,Bronce
+,,Ing. de Computacion,,A20979,Doe,Jhon,Bronce
+,93,Ing. Mecanico,,A20998,Doe,Jane,Bronce
+Espana,93,Ing. de Materiales,,A21162,Doe,Jhon,Bronce
+Espana,94,Ing. Quimico,,A21242,Doe,Jane,Bronce
+Suecia,,Arquitecto,,A2131,Doe,Jane,Silver
+,94,Ing. Quimico,Maestria en Desarrollo y Ambiente,A21333,Doe,Jhon,Bronce
+,92,Ing. Electronico,,A21497,Doe,Jhon,Bronce
+Venezuela,1,Ing. de Computacion,,A21530,Doe,Jane,Bronce
+Colombia,,TSU en Administracion Aduanera,,A21595,Doe,Jhon,Bronce
+,93,Ing. Quimico,,A21643,Doe,Jane,Bronce
+Colombia,,,Maestria en Matematicas,A21696,Doe,Jhon,Bronce
+Colombia,94,Ing. Electricista,Especializacion en Instalaciones Electri,A21723,Doe,Jane,Bronce
+,95,Ing. Mecanico,,A21726,Doe,Jane,Bronce
+Colombia,,Ing. Geofisico,,A21781,Doe,Jane,Gold
+,95,Ing. Electricista,,A21790,Doe,Jane,Bronce
+,96,Ing. de Computacion,,A21817,Doe,Jhon,Bronce
+Espana,,Ing. de Computacion,,A21835,Doe,Jane,Bronce
+USA,94,Ing. Mecanico,,A21836,Doe,Jane,Gold
+Venezuela,95,Ing. Quimico,,A21888,Doe,Jhon,Bronce
+,95,Ing. de Computacion,,A21892,Doe,Jhon,Bronce
+,95,Ing. de Computacion,,A21918,Doe,Jane,Bronce
+,94,Ing. de Computacion,Especializacion en Gerencia de la Tecnol,A21968,Doe,Jane,Bronce
+Colombia,,Ing. Quimico,,A21997,Doe,Jane,Bronce
+,,Ing. de Materiales,,A220,Doe,Jhon,Bronce
+,94,,Especializacion Tecnica en Telecomunicac,A22034,Doe,Jhon,Bronce
+Colombia,95,Ing. Quimico,,A22044,Doe,Jhon,Bronce
+Venezuela,,Ing. Electronico,,A22220,Doe,Jane,Bronce
+USA,,Ing. de Materiales,,A22242,Doe,Jane,Platinum
+,,Ing. de Materiales,Maestria en Ingenieria de Materiales,A22247,Doe,Jane,Bronce
+Reino Unido,94,Ing. Mecanico,,A22330,Doe,Jhon,Bronce
+Venezuela,88,Ing. Electricista,,A22357,Doe,Jhon,Bronce
+Venezuela,95,Ing. Electronico,,A22396,Doe,Jane,Bronce
+,,Ing. Quimico,,A22421,Doe,Jhon,Bronce
+Venezuela,,TSU en Organizacion Empresarial,,A22461,Doe,Jane,Bronce
+USA,,TSU en Tecnologia Electronica,,A22510,Doe,Jane,Bronce
+Venezuela,98,Ing. Electronico,,A22529,Doe,Jane,Bronce
+,96,Ing. Geofisico,,A22548,Doe,Jane,Bronce
+Venezuela,,Ing. Electricista,,A22555,Doe,Jhon,Bronce
+Venezuela,96,Ing. de Materiales,,A22558,Doe,Jane,Bronce
+Venezuela,98,Lic. en Quimica,,A22607,Doe,Jhon,Bronce
+,99,Ing. de Computacion,,A22626,Doe,Jane,Bronce
+,,Ing. Electronico,,A22627,Doe,Jhon,Bronce
+USA,96,Ing. de Materiales,,A22632,Doe,Jane,Silver
+,99,Lic. en Quimica,,A22689,Doe,Jhon,Bronce
+,,TSU en Tecnologia Mecanica,,A22698,Doe,Jhon,Bronce
+Canada,,Ing. Geofisico,,A22806,Doe,Jane,Bronce
+Canada,,Ing. de Computacion,,A22811,Doe,Jane,Bronce
+Republica Dominicana,94,Ing. de Computacion,,A22874,Doe,Jhon,Bronce
+,94,Lic. en Matematica,,A22881,Doe,Jane,Bronce
+,97,Ing. Mecanico,,A22883,Doe,Jhon,Bronce
+Reino Unido,96,Ing. Electronico,,A22897,Doe,Jhon,Bronce
+Espana,,Ing. de Computacion,,A22899,Doe,Jhon,Silver
+USA,,Ing. Mecanico,,A22942,Doe,Jane,Silver
+USA,,Ing. de Produccion,,A22959,Doe,Jhon,Silver
+USA,94,Ing. de Computacion,,A22965,Doe,Jane,Bronce
+Republica Dominicana,95,Ing. Geofisico,,A22970,Doe,Jane,Silver
+Mexico,96,Ing. Mecanico,,A22971,Doe,Jhon,Bronce
+Canada,,TSU en Administracion Hotelera,,A23051,Doe,Jane,Bronce
+Reino Unido,,Ing. Mecanico,Maestria en Ingenieria Mecanica,A23144,Doe,Jane,Bronce
+,,Ing. de Computacion,,A23183,Doe,Jhon,Bronce
+Venezuela,95,Arquitecto,,A23266,Doe,Jane,Bronce
+USA,,TSU en Administracion Aduanera,,A23342,Doe,Jhon,Silver
+,95,Ing. Quimico,,A23386,Doe,Jane,Bronce
+Venezuela,97,Lic. en Quimica,Especializacion en Gerencia de Proyectos,A23442,Doe,Jane,Bronce
+USA,95,TSU en Comercio Exterior,,A23574,Doe,Jhon,Bronce
+USA,,Ing. de Computacion,,A23630,Doe,Jane,Silver
+Venezuela,,TSU en Comercio Exterior,,A23637,Doe,Jane,Bronce
+USA,,,Especializacion en Gerencia de Auditoria,A23690,Doe,Jhon,Bronce
+USA,95,Ing. Quimico,,A23733,Doe,Jhon,Silver
+,,Ing. Geofisico,Maestria en Ciencias de la Tierra,A23830,Doe,Jane,Bronce
+Mexico,95,Ing. Geofisico,,A23872,Doe,Jane,Silver
+Espana,96,Ing. Mecanico,,A23926,Doe,Jane,Bronce
+Venezuela,97,Lic. en Biologia,,A23945,Doe,Jane,Bronce
+Canada,,,,A2398,Doe,Jane,Bronce
+Espana,96,Ing. Quimico,,A24034,Doe,Jhon,Bronce
+Azerbaijan,96,Ing. Electricista,,A24104,Doe,Jhon,Gold
+USA,,Arquitecto,,A24118,Doe,Jhon,Bronce
+USA,,,Doctorado en Fisica,A24132,Doe,Jhon,Bronce
+USA,,Ing. Mecanico,,A2420,Doe,Jhon,Silver
+Panama,96,Ing. Geofisico,Maestria en Ciencias de la Tierra,A24276,Doe,Jane,Bronce
+USA,,,Especializacion en Gerencia de Proyectos,A24372,Doe,Jane,Silver
+,,Ing. Electronico,Maestria en Ingenieria Biomedica,A24406,Doe,Jhon,Bronce
+Francia,95,Ing. Quimico,,A24429,Doe,Jane,Bronce
+Reino Unido,97,Arquitecto,,A24435,Doe,Jhon,Bronce
+USA,,Ing. Electronico,,A24521,Doe,Jane,Silver
+Colombia,97,Ing. de Computacion,,A24538,Doe,Jhon,Bronce
+Espana,97,Ing. de Computacion,,A24585,Doe,Jhon,Bronce
+Panama,,Ing. Quimico,,A2462,Doe,Jane,Bronce
+Reino Unido,98,Ing. Quimico,,A24640,Doe,Jhon,Bronce
+Irlanda,97,Lic. en Biologia,,A24667,Doe,Jane,Gold
+Venezuela,,Ing. de Materiales,,A24684,Doe,Jane,Bronce
+USA,,Ing. de Produccion,,A24725,Doe,Jhon,Silver
+Australia,98,Ing. de Computacion,,A24726,Doe,Jhon,Bronce
+Francia,,Ing. Geofisico,,A24733,Doe,Jane,Silver
+USA,,Ing. Geofisico,,A24740,Doe,Jane,Silver
+Mexico,85,Ing. de Materiales,Maestria en Ingenieria de Materiales,A24781,Doe,Jane,Bronce
+Francia,,Lic. en Quimica,,A248,Doe,Jhon,Silver
+USA,,TSU en Organizacion Empresarial,,A24821,Doe,Jane,Silver
+Japon,97,Ing. Geofisico,,A24877,Doe,Jane,Bronce
+USA,96,Ing. Geofisico,,A24902,Doe,Jhon,Bronce
+,,Turismo,,A24930,Doe,Jane,Bronce
+Espana,4,,Doctorado en Ciencias de los Alimentos,A25043,Doe,Jane,Bronce
+Venezuela,96,Ing. Mecanico,,A25067,Doe,Jane,Bronce
+USA,97,Ing. Electronico,,A25085,Doe,Jhon,Silver
+,,Ing. de Computacion,,A25093,Doe,Jane,Bronce
+Mexico,,Ing. de Materiales,,A25112,Doe,Jane,Bronce
+USA,96,Ing. Geofisico,,A25137,Doe,Jhon,Bronce
+USA,,Ing. Quimico,,A25161,Doe,Jhon,Bronce
+Italia,72,Ing. Quimico,,A2517,Doe,Jane,Silver
+,98,Ing. de Materiales,,A25234,Doe,Jane,Silver
+Peru,97,Ing. de Produccion,,A25277,Doe,Jhon,Bronce
+,98,Ing. Geofisico,,A25327,Doe,Jane,Bronce
+Australia,98,Lic. en Matematica,,A25384,Doe,Jane,Bronce
+Venezuela,98,Ing. Electricista,,A25386,Doe,Jane,Bronce
+Canada,,Ing. Quimico,,A25388,Doe,Jhon,Bronce
+Irlanda,73,Ing. Quimico,,A2544,Doe,Jane,Silver
+Holanda,97,TSU en Mantenimiento Aeronautico,,A25457,Doe,Jane,Bronce
+,72,Lic. en Quimica,,A2551,Doe,Jhon,Bronce
+USA,97,Ing. Mecanico,,A25530,Doe,Jhon,Gold
+Espana,97,Ing. Quimico,,A25535,Doe,Jhon,Bronce
+Colombia,97,Ing. Quimico,,A25538,Doe,Jane,Silver
+,,TSU en Mantenimiento Aeronautico,,A25580,Doe,Jhon,Bronce
+Espana,1,Ing. de Produccion,,A25592,Doe,Jhon,Silver
+Alemania,,Ing. Quimico,,A25597,Doe,Jane,Silver
+USA,98,Arquitecto,,A25608,Doe,Jane,Bronce
+Chile,,Ing. Electronico,,A25658,Doe,Jhon,Silver
+,,,Maestria en Psicologia,A2567,Doe,Jhon,Bronce
+Canada,96,Arquitecto,,A25678,Doe,Jhon,Bronce
+Suecia,97,Ing. Electronico,,A25686,Doe,Jane,Silver
+,3,Ing. de Materiales,,A25687,Doe,Jhon,Bronce
+Chile,85,Ing. de Computacion,,A25776,Doe,Jane,Bronce
+Francia,,Ing. Mecanico,,A25777,Doe,Jhon,Bronce
+Chile,,Lic. en Fisica,,A25829,Doe,Jhon,Silver
+Colombia,98,Ing. Electricista,Especializacion en Sistemas de Potencia,A25833,Doe,Jane,Bronce
+Canada,,TSU en Organizacion Empresarial,,A25850,Doe,Jane,Bronce
+Panama,1,Ing. Electricista,,A25881,Doe,Jane,Silver
+Venezuela,98,Ing. Geofisico,,A25976,Doe,Jhon,Bronce
+Espana,98,Ing. Electronico,,A26025,Doe,Jhon,Bronce
+,,Ing. de Produccion,,A26028,Doe,Jhon,Bronce
+,98,Arquitecto,,A26074,Doe,Jane,Bronce
+Mexico,99,Ing. Electronico,,A26092,Doe,Jane,Bronce
+Brasil,98,Ing. de Produccion,,A26109,Doe,Jhon,Bronce
+Espana,97,Ing. Electronico,,A26117,Doe,Jhon,Bronce
+USA,,Ing. Electronico,,A26125,Doe,Jane,Bronce
+Reino Unido,99,Ing. de Computacion,,A26132,Doe,Jhon,Bronce
+Canada,,TSU en Organizacion Empresarial,,A26146,Doe,Jane,Silver
+,,TSU en Tecnologia Electronica,,A26147,Doe,Jhon,Bronce
+Venezuela,,Ing. Electronico,,A26163,Doe,Jane,Bronce
+Venezuela,,Ing. de Computacion,,A26174,Doe,Jhon,Bronce
+,98,Ing. de Produccion,,A26196,Doe,Jane,Bronce
+USA,,Ing. de Computacion,,A2620,Doe,Jhon,Bronce
+USA,,Ing. Electricista,,A26204,Doe,Jane,Bronce
+USA,,Ing. Geofisico,,A26244,Doe,Jhon,Gold
+USA,99,Lic. en Biologia,,A26245,Doe,Jhon,Gold
+Venezuela,0,Ing. Geofisico,,A26248,Doe,Jhon,Bronce
+USA,,Ing. de Produccion,,A26277,Doe,Jhon,Silver
+USA,97,Ing. Quimico,,A26283,Doe,Jane,Bronce
+USA,,Ing. de Computacion,,A2629,Doe,Jane,Bronce
+Espana,98,Ing. Electronico,,A26318,Doe,Jhon,Gold
+Venezuela,99,Ing. Geofisico,,A26349,Doe,Jane,Bronce
+Venezuela,,Ing. de Materiales,,A26365,Doe,Jane,Bronce
+Colombia,99,Ing. Quimico,,A26367,Doe,Jane,Silver
+USA,98,Lic. en Biologia,,A26443,Doe,Jhon,Silver
+USA,6,Ing. Quimico,,A26454,Doe,Jhon,Bronce
+Venezuela,97,Ing. de Materiales,Especializacion en Gerencia de la Empres,A26502,Doe,Jane,Bronce
+Espana,,Ing. Mecanico,,A26529,Doe,Jane,Silver
+Colombia,,Ing. de Produccion,,A26541,Doe,Jane,Bronce
+USA,0,Ing. Electronico,,A26544,Doe,Jane,Bronce
+USA,97,Ing. de Computacion,,A26547,Doe,Jhon,Bronce
+Colombia,0,Ing. Electricista,,A26552,Doe,Jane,Bronce
+USA,99,Ing. de Produccion,,A26599,Doe,Jhon,Silver
+Venezuela,98,Ing. Electronico,,A26633,Doe,Jhon,Silver
+Colombia,99,Ing. de Computacion,Especializacion en Gerencia de Proyectos,A26676,Doe,Jhon,Bronce
+Venezuela,99,TSU en Administracion Aduanera,,A26682,Doe,Jane,Gold
+Venezuela,0,Lic. en Matematica,Maestria en Estadistica,A26710,Doe,Jhon,Bronce
+USA,2,Ing. Electronico,,A26742,Doe,Jhon,Silver
+USA,99,Ing. Quimico,,A26753,Doe,Jane,Bronce
+USA,0,Ing. de Computacion,,A26767,Doe,Jhon,Silver
+Canada,98,Ing. Mecanico,,A26769,Doe,Jhon,Silver
+USA,98,Ing. Electronico,,A26770,Doe,Jane,Silver
+USA,98,Ing. Mecanico,,A26826,Doe,Jhon,Silver
+USA,99,Ing. Electronico,,A26857,Doe,Jane,Silver
+Panama,98,Ing. Electronico,,A26875,Doe,Jane,Silver
+USA,99,Ing. Quimico,,A26888,Doe,Jhon,Silver
+Venezuela,1,Ing. Mecanico,,A26936,Doe,Jane,Bronce
+Canada,97,Ing. de Materiales,Especializacion en Gerencia de Proyectos,A26979,Doe,Jhon,Silver
+Argentina,,Ing. de Materiales,,A26986,Doe,Jhon,Silver
+Venezuela,1,Ing. Electronico,,A27011,Doe,Jane,Bronce
+USA,99,Lic. en Matematica,,A27062,Doe,Jhon,Silver
+Espana,1,Ing. Electronico,,A27068,Doe,Jhon,Bronce
+Canada,0,Ing. Quimico,Especializacion en Ingenieria del Gas Na,A27079,Doe,Jhon,Bronce
+Venezuela,98,Ing. de Materiales,Especializacion en Finzas de la Empres,A27087,Doe,Jhon,Bronce
+USA,,Ing. de Computacion,,A27124,Doe,Jane,Silver
+USA,0,Ing. de Computacion,,A27126,Doe,Jane,Silver
+USA,,Ing. de Produccion,,A27151,Doe,Jhon,Silver
+Guatemala,3,Ing. de Produccion,,A27226,Doe,Jane,Silver
+Venezuela,,Ing. Geofisico,,A27280,Doe,Jane,Bronce
+Espana,,,Doctorado en Ciencias Biologicas,A27342,Doe,Jhon,Bronce
+USA,72,Ing. Quimico,,A2735,Doe,Jane,Bronce
+USA,0,Ing. Quimico,,A27395,Doe,Jhon,Silver
+USA,,TSU en Comercio Exterior,,A27423,Doe,Jhon,Silver
+Venezuela,99,Ing. de Materiales,,A27439,Doe,Jane,Bronce
+USA,,Ing. Quimico,,A27475,Doe,Jhon,Silver
+Venezuela,99,Ing. de Computacion,,A27497,Doe,Jhon,Bronce
+Espana,,TSU en Administracion Aduanera,,A27501,Doe,Jane,Bronce
+Canada,1,Lic. en Biologia,,A27534,Doe,Jane,Silver
+Venezuela,1,Ing. Electronico,,A27552,Doe,Jhon,Silver
+USA,0,Ing. de Computacion,Especializacion en Gerencia de Proyectos,A27564,Doe,Jhon,Bronce
+Espana,99,Ing. de Materiales,,A27592,Doe,Jane,Bronce
+Canada,,Ing. Quimico,,A27594,Doe,Jhon,Bronce
+USA,,Turismo,,A27631,Doe,Jane,Silver
+USA,99,Ing. Mecanico,,A27637,Doe,Jane,Silver
+Canada,99,Ing. de Computacion,,A27638,Doe,Jhon,Bronce
+Guatemala,0,Ing. Electricista,,A27656,Doe,Jane,Bronce
+Colombia,,Ing. Electricista,,A27683,Doe,Jhon,Bronce
+Venezuela,,Arquitecto,,A27733,Doe,Jhon,Bronce
+USA,,Ing. Quimico,,A2784,Doe,Jhon,Silver
+Reino Unido,,Ing. de Materiales,,A27842,Doe,Jane,Bronce
+Reino Unido,0,Ing. Mecanico,,A27906,Doe,Jhon,Bronce
+Colombia,,Turismo,,A27937,Doe,Jane,Bronce
+USA,99,Ing. Electronico,,A27947,Doe,Jhon,Gold
+Reino Unido,,Ing. Electricista,,A27992,Doe,Jane,Bronce
+USA,0,Ing. Mecanico,,A28000,Doe,Jhon,Gold
+Espana,,Ing. Mecanico,,A28011,Doe,Jane,Bronce
+Colombia,99,Lic. en Biologia,,A28026,Doe,Jane,Bronce
+Peru,98,Ing. de Materiales,,A28038,Doe,Jhon,Bronce
+Italia,98,Ing. de Materiales,,A28039,Doe,Jane,Silver
+Canada,73,Ing. Electronico,,A2806,Doe,Jhon,Silver
+Malasia,99,Lic. en Quimica,,A28074,Doe,Jane,Gold
+Espana,,Ing. Electricista,,A28085,Doe,Jane,Bronce
+Espana,99,Ing. Mecanico,,A28093,Doe,Jane,Silver
+Canada,0,Ing. de Computacion,,A28124,Doe,Jane,Silver
+USA,,Ing. Electronico,,A28153,Doe,Jhon,Silver
+USA,99,Ing. de Computacion,,A28170,Doe,Jhon,Bronce
+USA,2,Ing. de Computacion,,A28183,Doe,Jane,Bronce
+Canada,6,Lic. en Matematica,,A28206,Doe,Jhon,Bronce
+Venezuela,1,Ing. de Materiales,,A28225,Doe,Jhon,Bronce
+Mexico,,Ing. Electricista,,A28252,Doe,Jhon,Silver
+USA,,Ing. de Computacion,,A28308,Doe,Jhon,Silver
+USA,,TSU en Comercio Exterior,,A28385,Doe,Jhon,Gold
+USA,1,Ing. Electricista,,A28396,Doe,Jhon,Silver
+Espana,91,Ing. Mecanico,,A28465,Doe,Jhon,Bronce
+Colombia,,TSU en Administracion Hotelera,,A28476,Doe,Jane,Bronce
+USA,73,Ing. Electronico,,A2850,Doe,Jhon,Bronce
+Canada,,Ing. de Produccion,,A28503,Doe,Jane,Bronce
+Colombia,,Ing. de Computacion,,A28517,Doe,Jane,Bronce
+Colombia,2,Ing. Quimico,Maestria en Ingenieria Quimica,A28526,Doe,Jhon,Bronce
+Mexico,,Ing. Electronico,,A28535,Doe,Jhon,Silver
+Canada,,Ing. Mecanico,,A28543,Doe,Jane,Bronce
+Venezuela,97,Lic. en Biologia,,A28556,Doe,Jane,Bronce
+USA,2,Ing. Mecanico,,A28566,Doe,Jane,Gold
+Espana,99,Ing. Electronico,,A28577,Doe,Jhon,Silver
+Venezuela,1,Ing. de Computacion,,A28595,Doe,Jane,Bronce
+Venezuela,1,Ing. de Produccion,,A28597,Doe,Jane,Silver
+Canada,1,Ing. Mecanico,,A28600,Doe,Jhon,Bronce
+Canada,0,Ing. Quimico,,A28601,Doe,Jhon,Bronce
+USA,1,Ing. de Computacion,,A28617,Doe,Jhon,Bronce
+Canada,,Lic. en Matematica,,A28623,Doe,Jane,Bronce
+Venezuela,3,Ing. de Computacion,,A28659,Doe,Jane,Bronce
+Venezuela,1,Ing. Electricista,,A28782,Doe,Jhon,Bronce
+Venezuela,99,Lic. en Matematica,,A28785,Doe,Jhon,Bronce
+Venezuela,0,Lic. en Biologia,,A28831,Doe,Jane,Silver
+Canada,1,Ing. Electricista,,A28833,Doe,Jane,Bronce
+Colombia,2,Ing. de Computacion,,A28856,Doe,Jhon,Bronce
+Venezuela,1,Ing. Mecanico,,A28865,Doe,Jane,Bronce
+USA,1,Lic. en Matematica,,A28873,Doe,Jane,Silver
+Venezuela,2,Ing. Electricista,,A28874,Doe,Jhon,Bronce
+USA,2,Ing. de Materiales,,A28931,Doe,Jane,Bronce
+Venezuela,,Ing. de Materiales,,A28954,Doe,Jane,Bronce
+Mexico,,Arquitecto,,A28972,Doe,Jane,Bronce
+USA,2,Ing. de Materiales,,A28995,Doe,Jhon,Silver
+USA,,,Especializacion en Asesoramiento y Desar,A29,Doe,Jane,Silver
+USA,1,Ing. Mecanico,,A29024,Doe,Jane,Bronce
+Colombia,2,Ing. de Computacion,,A29051,Doe,Jhon,Silver
+Venezuela,0,Ing. de Produccion,,A29103,Doe,Jhon,Bronce
+Panama,2,Ing. de Produccion,,A29120,Doe,Jane,Gold
+USA,,Lic. en Quimica,Doctorado en Fisica,A29127,Doe,Jane,Bronce
+USA,0,Ing. de Computacion,,A29154,Doe,Jhon,Bronce
+USA,1,Ing. Quimico,,A29192,Doe,Jane,Gold
+Espana,2,Lic. en Biologia,,A29218,Doe,Jane,Silver
+USA,1,Lic. en Matematica,,A29226,Doe,Jane,Silver
+Venezuela,,,Doctorado en Ingenieria,A2925,Doe,Jane,Bronce
+USA,0,Ing. Quimico,Maestria en Ingenieria Quimica,A29250,Doe,Jane,Bronce
+Costa Rica,2,Lic. en Quimica,,A29269,Doe,Jhon,Gold
+Venezuela,,Ing. Mecanico,,A2929,Doe,Jane,Bronce
+Alemania,1,Ing. Mecanico,,A29295,Doe,Jane,Silver
+Chile,1,Ing. Electronico,,A29363,Doe,Jhon,Bronce
+USA,2,Ing. de Produccion,,A29393,Doe,Jane,Bronce
+Colombia,1,Ing. Electricista,,A29447,Doe,Jane,Bronce
+Alemania,0,Arquitecto,,A29481,Doe,Jane,Silver
+Reino Unido,,Ing. de Produccion,,A29515,Doe,Jane,Silver
+USA,4,Ing. de Computacion,,A29546,Doe,Jane,Silver
+Canada,2,Ing. Mecanico,,A29551,Doe,Jhon,Silver
+USA,1,Ing. Electronico,,A29582,Doe,Jane,Bronce
+Holanda,2,Ing. de Computacion,,A29587,Doe,Jane,Bronce
+Alemania,3,Ing. de Computacion,,A29609,Doe,Jhon,Bronce
+USA,1,Ing. Electronico,,A29623,Doe,Jhon,Bronce
+Canada,,Ing. de Computacion,,A29625,Doe,Jhon,Bronce
+Chile,1,Ing. Electricista,,A29642,Doe,Jhon,Bronce
+USA,,TSU en Tecnologia Electronica,,A2967,Doe,Jane,Bronce
+Venezuela,0,Ing. de Produccion,,A29690,Doe,Jhon,Bronce
+USA,74,Ing. Quimico,,A2971,Doe,Jhon,Gold
+Panama,3,Ing. de Computacion,,A29747,Doe,Jhon,Bronce
+Canada,3,Ing. de Computacion,,A29755,Doe,Jhon,Silver
+Espana,,Ing. Quimico,,A2976,Doe,Jane,Bronce
+USA,,TSU en Comercio Exterior,,A29810,Doe,Jhon,Bronce
+Peru,,TSU en Tecnologia Electronica,,A29816,Doe,Jane,Silver
+Reino Unido,1,Ing. de Computacion,,A29821,Doe,Jhon,Silver
+Peru,3,Ing. de Computacion,,A29837,Doe,Jhon,Bronce
+Panama,1,Ing. de Computacion,,A29840,Doe,Jane,Bronce
+Venezuela,3,Ing. de Computacion,,A29863,Doe,Jane,Bronce
+Colombia,2,Ing. Electronico,,A29867,Doe,Jane,Bronce
+Reino Unido,2,Ing. de Produccion,,A29981,Doe,Jhon,Silver
+Canada,2,Ing. Quimico,,A29996,Doe,Jane,Bronce
+USA,3,Ing. Geofisico,,A29998,Doe,Jhon,Bronce
+Venezuela,3,Lic. en Matematica,,A30043,Doe,Jhon,Bronce
+Espana,2,Ing. Mecanico,,A30045,Doe,Jhon,Silver
+Portugal,1,Ing. de Materiales,,A30055,Doe,Jane,Silver
+USA,1,Ing. Quimico,,A30063,Doe,Jane,Silver
+Mexico,2,Ing. Electronico,,A30065,Doe,Jane,Bronce
+Venezuela,2,Ing. Quimico,,A30073,Doe,Jhon,Bronce
+Venezuela,2,Ing. Geofisico,,A30074,Doe,Jane,Bronce
+Francia,3,Ing. Quimico,,A30086,Doe,Jhon,Silver
+Argentina,3,Lic. en Biologia,,A30114,Doe,Jane,Silver
+Canada,2,Ing. Electronico,,A30137,Doe,Jhon,Silver
+Canada,2,Ing. Mecanico,,A30257,Doe,Jhon,Silver
+Francia,,TSU en Tecnologia Electronica,,A30258,Doe,Jane,Bronce
+USA,2,Ing. de Computacion,,A30260,Doe,Jane,Bronce
+USA,4,Arquitecto,,A30287,Doe,Jhon,Silver
+Reino Unido,3,Lic. en Biologia,,A30299,Doe,Jane,Silver
+USA,,TSU en Tecnologia Electronica,,A30331,Doe,Jane,Silver
+Colombia,3,Ing. de Produccion,,A30377,Doe,Jhon,Bronce
+Azerbaiyan,1,Ing. Quimico,,A30383,Doe,Jane,Bronce
+USA,2,Ing. Mecanico,,A30404,Doe,Jane,Gold
+Noruega,3,Ing. de Materiales,,A30415,Doe,Jhon,Bronce
+USA,1,Ing. Electronico,,A30416,Doe,Jhon,Silver
+Francia,3,Ing. Mecanico,,A30444,Doe,Jane,Silver
+Venezuela,,TSU en Administracion Aduanera,,A30447,Doe,Jane,Bronce
+USA,,Ing. Geofisico,,A30475,Doe,Jane,Bronce
+Peru,,Ing. de Produccion,,A30476,Doe,Jhon,Bronce
+USA,1,Lic. en Quimica,Maestria en Quimica,A30477,Doe,Jhon,Silver
+Canada,3,Ing. de Computacion,,A30485,Doe,Jane,Silver
+Suiza,,TSU en Administracion Aduanera,,A30489,Doe,Jane,Bronce
+USA,2,Ing. de Computacion,,A30521,Doe,Jhon,Bronce
+Puerto Rico,4,Ing. de Computacion,,A30546,Doe,Jhon,Silver
+USA,2,Lic. en Biologia,,A30595,Doe,Jhon,Bronce
+USA,2,Ing. Electronico,,A30602,Doe,Jhon,Silver
+Reino Unido,4,Ing. de Computacion,,A30605,Doe,Jhon,Bronce
+Chile,4,Lic. en Biologia,,A30607,Doe,Jane,Silver
+USA,4,Ing. Mecanico,,A30610,Doe,Jhon,Silver
+Irlanda,,Ing. de Computacion,,A30632,Doe,Jane,Silver
+Mexico,6,Ing. de Computacion,,A30643,Doe,Jane,Silver
+Espana,2,Ing. Electronico,,A30645,Doe,Jane,Bronce
+Reino Unido,4,Lic. en Quimica,,A30704,Doe,Jane,Silver
+Canada,1,Ing. Electricista,,A30709,Doe,Jane,Bronce
+USA,3,Ing. Geofisico,,A30713,Doe,Jane,Bronce
+Panama,4,Ing. de Computacion,,A30746,Doe,Jane,Silver
+USA,4,Ing. de Computacion,,A30789,Doe,Jane,Gold
+Venezuela,6,Ing. Quimico,,A30801,Doe,Jhon,Bronce
+Suiza,2,Ing. Electronico,,A30809,Doe,Jhon,Silver
+Espana,3,Ing. Quimico,,A30866,Doe,Jhon,Silver
+Reino Unido,0,Ing. Electronico,,A30875,Doe,Jhon,Silver
+Francia,4,Ing. Electronico,,A30918,Doe,Jane,Bronce
+Colombia,1,Ing. Electronico,,A30932,Doe,Jane,Bronce
+USA,2,Ing. Mecanico,,A30936,Doe,Jane,Bronce
+Venezuela,4,Lic. en Biologia,,A30941,Doe,Jhon,Bronce
+Bahrain,4,Arquitecto,,A30957,Doe,Jhon,Gold
+USA,2,Urbanista,,A31016,Doe,Jhon,Bronce
+USA,4,Lic. en Matematica,,A31018,Doe,Jane,Bronce
+USA,4,Ing. de Produccion,,A31020,Doe,Jane,Silver
+USA,3,Ing. de Produccion,,A31030,Doe,Jhon,Bronce
+Reino Unido,3,Ing. de Computacion,,A31071,Doe,Jane,Bronce
+Noruega,2,Ing. de Computacion,Maestria en Ciencias de la Computacion,A31110,Doe,Jane,Silver
+Colombia,3,Ing. Electronico,,A31136,Doe,Jane,Silver
+Costa Rica,3,Ing. de Computacion,,A31165,Doe,Jhon,Bronce
+Venezuela,2,Lic. en Biologia,Maestria en Ciencias Biologicas,A31172,Doe,Jhon,Bronce
+Arabia Saudita,6,Ing. de Computacion,,A31178,Doe,Jhon,Silver
+Peru,5,Ing. Quimico,,A31185,Doe,Jhon,Silver
+Canada,5,Ing. de Materiales,,A31197,Doe,Jhon,Silver
+Alemania,3,Ing. Mecanico,,A31230,Doe,Jane,Bronce
+Venezuela,4,Ing. Electricista,,A31264,Doe,Jhon,Bronce
+Espana,3,Ing. Electronico,,A31266,Doe,Jhon,Bronce
+Canada,4,Ing. de Produccion,,A31284,Doe,Jhon,Silver
+Chile,3,Ing. Electronico,,A31347,Doe,Jhon,Bronce
+USA,5,Ing. Geofisico,,A31375,Doe,Jhon,Bronce
+Venezuela,5,Ing. Mecanico,,A31380,Doe,Jhon,Bronce
+Espana,2,Ing. Quimico,,A31384,Doe,Jane,Bronce
+Australia,,Ing. Quimico,,A31386,Doe,Jane,Silver
+Francia,77,Ing. de Materiales,,A3140,Doe,Jhon,Bronce
+Canada,3,Lic. en Matematica,,A31419,Doe,Jhon,Bronce
+Reino Unido,4,Ing. Electricista,,A31433,Doe,Jhon,Silver
+Emiratos Arabes Unidos,9,TSU en Organizacion Empresarial,,A31437,Doe,Jhon,Silver
+USA,6,Ing. de Produccion,,A31458,Doe,Jane,Silver
+USA,5,Ing. Mecanico,,A31470,Doe,Jane,Silver
+Puerto Rico,3,Ing. Quimico,,A31477,Doe,Jhon,Bronce
+USA,4,Ing. de Computacion,,A31502,Doe,Jane,Bronce
+Colombia,3,Lic. en Quimica,,A31504,Doe,Jane,Bronce
+USA,5,Ing. Electronico,,A31505,Doe,Jhon,Silver
+USA,5,Ing. Electronico,,A31587,Doe,Jane,Silver
+Reino Unido,3,Ing. Electricista,,A31595,Doe,Jhon,Gold
+Venezuela,4,Ing. de Computacion,,A31646,Doe,Jane,Bronce
+Australia,5,Ing. de Produccion,,A31655,Doe,Jhon,Silver
+USA,4,Ing. Mecanico,,A31669,Doe,Jane,Silver
+USA,4,Ing. Quimico,,A31677,Doe,Jhon,Silver
+Australia,3,Ing. Geofisico,,A31685,Doe,Jane,Bronce
+Australia,4,Ing. Mecanico,Maestria en Ingenieria Mecanica,A31691,Doe,Jhon,Silver
+USA,,TSU en Organizacion Empresarial,,A31707,Doe,Jhon,Silver
+Francia,6,Ing. Electronico,,A31738,Doe,Jane,Bronce
+Espana,,,Especializacion en Desarrollo Organizaci,A3176,Doe,Jane,Silver
+Espana,3,Ing. de Produccion,,A31790,Doe,Jane,Bronce
+Canada,3,Ing. de Computacion,,A31825,Doe,Jane,Silver
+Reino Unido,5,Ing. Quimico,,A31871,Doe,Jhon,Bronce
+Panama,4,Ing. Quimico,,A31907,Doe,Jane,Gold
+Alemania,5,Ing. Mecanico,,A31909,Doe,Jane,Silver
+Espana,5,Ing. Mecanico,,A31915,Doe,Jane,Bronce
+Canada,4,Ing. de Materiales,,A31918,Doe,Jhon,Silver
+Canada,6,Ing. Mecanico,,A31921,Doe,Jhon,Bronce
+USA,5,Ing. Mecanico,,A31941,Doe,Jane,Silver
+Colombia,5,Ing. de Produccion,,A31946,Doe,Jhon,Bronce
+USA,,,Maestria en Ingenieria de Sistemas,A3195,Doe,Jhon,Platinum
+Venezuela,8,TSU en Tecnologia Electronica,,A31951,Doe,Jane,Bronce
+Irlanda,5,Ing. Electronico,,A31963,Doe,Jane,Gold
+Francia,6,Ing. de Produccion,,A31965,Doe,Jhon,Bronce
+Venezuela,8,Ing. de Produccion,,A31967,Doe,Jhon,Silver
+Alemania,5,Ing. Mecanico,,A31992,Doe,Jane,Gold
+Qatar,5,Ing. Electronico,,A32011,Doe,Jhon,Silver
+Venezuela,,TSU en Administracion Aduanera,,A32051,Doe,Jhon,Bronce
+Panama,5,Urbanista,,A32082,Doe,Jane,Bronce
+Canada,,,Maestria en Ciencias de la Computacion,A32109,Doe,Jhon,Bronce
+Venezuela,4,Arquitecto,,A32133,Doe,Jane,Bronce
+Espana,4,Ing. de Materiales,,A32135,Doe,Jhon,Bronce
+Espana,5,Lic. en Biologia,,A32148,Doe,Jane,Silver
+Colombia,,TSU en Administracion Aduanera,,A32188,Doe,Jane,Bronce
+Venezuela,,TSU en Administracion Aduanera,,A32201,Doe,Jhon,Bronce
+USA,5,Ing. Quimico,,A32241,Doe,Jhon,Silver
+Venezuela,75,Lic. en Quimica,,A3225,Doe,Jhon,Bronce
+Reino Unido,5,Ing. Electronico,,A32256,Doe,Jane,Silver
+USA,5,Ing. de Produccion,,A32262,Doe,Jane,Bronce
+Venezuela,5,Ing. de Materiales,,A32275,Doe,Jane,Bronce
+Espana,,Ing. Electronico,,A3228,Doe,Jane,Silver
+Reino Unido,5,Ing. de Produccion,,A32294,Doe,Jane,Bronce
+USA,,Lic. en Matematica,,A32308,Doe,Jhon,Silver
+Venezuela,5,Lic. en Matematica,,A32315,Doe,Jane,Bronce
+Colombia,5,Ing. Electronico,,A32334,Doe,Jane,Bronce
+Chile,7,Ing. de Computacion,,A32371,Doe,Jhon,Bronce
+USA,3,Ing. Mecanico,,A32378,Doe,Jhon,Bronce
+Alemania,4,Ing. de Computacion,,A32379,Doe,Jhon,Bronce
+Arabia Saudita,6,Ing. Electronico,,A32382,Doe,Jane,Bronce
+USA,5,Ing. Mecanico,,A32393,Doe,Jhon,Silver
+Espana,6,Ing. de Computacion,,A32435,Doe,Jhon,Silver
+Canada,5,Ing. de Materiales,,A32446,Doe,Jane,Gold
+Francia,5,Ing. de Computacion,,A32460,Doe,Jane,Silver
+Venezuela,4,Ing. de Computacion,,A32479,Doe,Jane,Bronce
+Venezuela,,Ing. Quimico,,A3255,Doe,Jhon,Silver
+USA,5,Ing. de Produccion,,A32557,Doe,Jhon,Bronce
+Venezuela,4,Ing. Electronico,,A32590,Doe,Jhon,Bronce
+Holanda,5,Ing. Electronico,,A32608,Doe,Jane,Bronce
+Venezuela,5,Ing. de Computacion,,A32612,Doe,Jane,Bronce
+Venezuela,,TSU en Comercio Exterior,,A32681,Doe,Jhon,Bronce
+Espana,,,Maestria en Nutricion,A32689,Doe,Jane,Bronce
+Espana,4,Ing. Quimico,,A32692,Doe,Jhon,Bronce
+Reino Unido,4,Ing. Electronico,,A32714,Doe,Jane,Bronce
+Espana,6,Ing. de Produccion,,A32740,Doe,Jane,Bronce
+Espana,5,TSU en Comercio Exterior,,A32869,Doe,Jhon,Bronce
+USA,4,Ing. de Computacion,,A32882,Doe,Jane,Silver
+Venezuela,5,Ing. Electronico,,A32887,Doe,Jhon,Bronce
+Brasil,5,Arquitecto,,A32913,Doe,Jhon,Gold
+Reino Unido,6,Ing. Quimico,,A32914,Doe,Jane,Silver
+USA,5,Ing. Electronico,,A32915,Doe,Jhon,Silver
+Suecia,6,Ing. de Computacion,,A32922,Doe,Jhon,Silver
+USA,,Ing. Electricista,,A32942,Doe,Jhon,Silver
+Venezuela,6,Ing. de Produccion,,A32965,Doe,Jhon,Bronce
+Canada,6,Ing. de Computacion,,A33027,Doe,Jhon,Bronce
+Venezuela,5,Ing. de Materiales,,A33055,Doe,Jane,Bronce
+Singapur,4,Ing. Mecanico,,A33067,Doe,Jane,Silver
+USA,3,Ing. de Computacion,,A33081,Doe,Jane,Silver
+Irlanda,5,Ing. de Computacion,,A33090,Doe,Jhon,Bronce
+Venezuela,5,Ing. de Produccion,,A33093,Doe,Jane,Bronce
+Alemania,5,Arquitecto,,A33115,Doe,Jhon,Bronce
+Francia,4,Ing. Geofisico,,A33125,Doe,Jane,Bronce
+USA,5,Ing. Electronico,,A33151,Doe,Jhon,Bronce
+Francia,3,Ing. Geofisico,,A33155,Doe,Jhon,Bronce
+Chile,6,Ing. de Materiales,,A33181,Doe,Jane,Bronce
+Espana,5,,Maestria en Ingenieria Mecanica,A33206,Doe,Jhon,Bronce
+USA,5,Ing. Electronico,,A33215,Doe,Jane,Bronce
+USA,5,Ing. de Materiales,,A33239,Doe,Jhon,Bronce
+Chile,6,Ing. de Materiales,,A33244,Doe,Jane,Bronce
+Belgica,6,Lic. en Biologia,,A33257,Doe,Jane,Silver
+Reino Unido,6,TSU en Comercio Exterior,,A33269,Doe,Jhon,Bronce
+Espana,5,Ing. Quimico,,A33273,Doe,Jhon,Bronce
+USA,6,Ing. Geofisico,,A33276,Doe,Jhon,Silver
+USA,8,TSU en Comercio Exterior,,A33279,Doe,Jane,Bronce
+Alemania,8,Ing. de Computacion,,A33321,Doe,Jhon,Silver
+Canada,6,Ing. Mecanico,,A33337,Doe,Jhon,Silver
+Noruega,,TSU en Administracion Aduanera,,A33408,Doe,Jhon,Silver
+Venezuela,6,Lic. en Quimica,,A33426,Doe,Jhon,Bronce
+Argentina,6,Ing. Electronico,,A33458,Doe,Jane,Bronce
+Italia,6,Ing. de Computacion,,A33506,Doe,Jhon,Bronce
+USA,6,Ing. de Produccion,,A33514,Doe,Jhon,Silver
+Suiza,6,Ing. de Computacion,,A33522,Doe,Jane,Silver
+Venezuela,5,Ing. de Produccion,,A33557,Doe,Jane,Bronce
+Mexico,6,Ing. Mecanico,,A33571,Doe,Jane,Silver
+Francia,8,Ing. de Produccion,,A33607,Doe,Jane,Silver
+Francia,6,Ing. de Produccion,,A33659,Doe,Jhon,Bronce
+Peru,5,Ing. de Materiales,,A33675,Doe,Jane,Gold
+Chile,7,Arquitecto,,A33711,Doe,Jhon,Bronce
+Argentina,6,Ing. de Computacion,,A33712,Doe,Jane,Bronce
+USA,3,Ing. Quimico,,A33737,Doe,Jane,Bronce
+Espana,,TSU en Comercio Exterior,,A33757,Doe,Jane,Bronce
+Panama,7,Ing. Quimico,,A33770,Doe,Jhon,Bronce
+USA,6,Ing. Geofisico,,A33790,Doe,Jhon,Gold
+Reino Unido,6,Ing. de Computacion,,A33791,Doe,Jane,Bronce
+Venezuela,7,Ing. de Computacion,,A33792,Doe,Jane,Bronce
+USA,6,Ing. Mecanico,,A33832,Doe,Jhon,Bronce
+Argentina,7,Ing. Mecanico,,A33835,Doe,Jane,Bronce
+Francia,6,Ing. Electronico,,A33865,Doe,Jhon,Bronce
+Suiza,6,Ing. Electronico,,A33884,Doe,Jane,Bronce
+Finlandia,3,Ing. de Produccion,,A33888,Doe,Jhon,Silver
+Alemania,3,Lic. en Biologia,,A33900,Doe,Jane,Bronce
+Espana,7,Ing. Mecanico,,A33953,Doe,Jhon,Silver
+USA,6,Ing. de Computacion,,A33966,Doe,Jhon,Bronce
+Venezuela,5,Ing. de Computacion,Especializacion en Gerencia de Mercadeo,A33981,Doe,Jhon,Bronce
+Colombia,,TSU en Tecnologia Electronica,,A33997,Doe,Jane,Silver
+Alemania,,Ing. Electronico,,A340,Doe,Jane,Bronce
+Colombia,5,Ing. Electronico,,A34016,Doe,Jane,Bronce
+Chile,6,Ing. Electronico,,A34028,Doe,Jane,Bronce
+Chile,6,Ing. de Produccion,,A34059,Doe,Jane,Bronce
+Chile,6,Ing. de Produccion,,A34078,Doe,Jhon,Silver
+Reino Unido,,Lic. en Matematica,,A3415,Doe,Jhon,Bronce
+USA,5,Arquitecto,,A34159,Doe,Jane,Silver
+Espana,6,Lic. en Biologia,,A34200,Doe,Jhon,Bronce
+Reino Unido,7,Ing. Quimico,,A34206,Doe,Jhon,Bronce
+Argentina,,TSU en Administracion Aduanera,,A34224,Doe,Jane,Bronce
+Venezuela,7,Ing. de Produccion,,A34238,Doe,Jhon,Bronce
+Australia,6,Ing. de Materiales,,A34248,Doe,Jhon,Silver
+Canada,6,Arquitecto,,A34303,Doe,Jhon,Bronce
+Alemania,6,Ing. de Produccion,,A34335,Doe,Jane,Bronce
+Espana,6,Ing. Quimico,,A34365,Doe,Jane,Bronce
+Argentina,7,Ing. de Materiales,,A34478,Doe,Jane,Bronce
+Francia,6,Ing. Geofisico,,A34491,Doe,Jane,Bronce
+USA,7,Ing. Electronico,,A34546,Doe,Jhon,Silver
+Canada,7,Ing. de Computacion,,A34569,Doe,Jane,Silver
+Alemania,8,Ing. de Produccion,,A34655,Doe,Jane,Silver
+Noruega,8,Ing. de Produccion,,A34658,Doe,Jhon,Silver
+Canada,5,Ing. de Computacion,,A34697,Doe,Jane,Bronce
+USA,9,Ing. Mecanico,,A34779,Doe,Jane,Bronce
+Chile,6,Ing. de Computacion,,A34798,Doe,Jhon,Bronce
+Espana,6,Ing. Quimico,,A34825,Doe,Jane,Bronce
+Canada,7,Ing. de Computacion,,A34854,Doe,Jhon,Bronce
+Alemania,6,Ing. Mecanico,,A34877,Doe,Jhon,Bronce
+Colombia,8,Ing. de Produccion,,A34925,Doe,Jane,Bronce
+Colombia,8,Ing. de Materiales,,A34949,Doe,Jhon,Bronce
+Venezuela,6,Ing. Mecanico,,A34952,Doe,Jane,Bronce
+Suecia,7,Ing. Geofisico,,A34963,Doe,Jane,Silver
+Espana,6,Ing. Electricista,,A34965,Doe,Jhon,Gold
+Colombia,7,Ing. Electronico,,A34986,Doe,Jhon,Bronce
+Colombia,8,Ing. Mecanico,,A35026,Doe,Jane,Bronce
+Espana,8,Ing. Geofisico,,A35072,Doe,Jane,Bronce
+Argentina,8,Lic. en Biologia,,A35182,Doe,Jane,Bronce
+Venezuela,8,Ing. de Produccion,,A35199,Doe,Jane,Bronce
+Francia,,TSU en Comercio Exterior,,A35237,Doe,Jane,Bronce
+Francia,7,Ing. Geofisico,,A35239,Doe,Jane,Bronce
+USA,,TSU en Comercio Exterior,,A35299,Doe,Jane,Bronce
+Venezuela,8,Ing. de Materiales,,A35352,Doe,Jane,Bronce
+Japon,8,Ing. de Materiales,,A35434,Doe,Jane,Silver
+Venezuela,,,Maestria en Literatura Latinoamerica,A35464,Doe,Jhon,Bronce
+Canada,,TSU en Administracion Aduanera,,A35514,Doe,Jhon,Silver
+Venezuela,7,Ing. Mecanico,,A35568,Doe,Jane,Bronce
+Panama,9,Ing. Quimico,,A35569,Doe,Jhon,Silver
+Canada,8,Ing. de Computacion,,A35625,Doe,Jane,Bronce
+USA,74,Lic. en Biologia,,A3579,Doe,Jane,Silver
+USA,,Turismo,,A35930,Doe,Jhon,Silver
+Espana,9,Ing. de Computacion,,A35985,Doe,Jane,Bronce
+USA,9,Ing. Mecanico,,A36001,Doe,Jane,Silver
+Alemania,82,Ing. Mecanico,,A36139,Doe,Jhon,Silver
+Brasil,80,Urbanista,,A36323,Doe,Jane,Silver
+Venezuela,81,Ing. de Computacion,Maestria en Ciencias de la Computacion,A36324,Doe,Jane,Bronce
+Francia,,Ing. de Computacion,,A36325,Doe,Jane,Silver
+Espana,82,Lic. en Quimica,,A36343,Doe,Jhon,Bronce
+Mexico,98,Ing. de Computacion,Maestria en Ciencias de la Computacion,A36856,Doe,Jhon,Bronce
+Venezuela,,Ing. Electronico,,A36859,Doe,Jane,Bronce
+Chile,,Ing. Quimico,,A3688,Doe,Jhon,Bronce
+Holanda,98,Ing. Quimico,,A36906,Doe,Jhon,Bronce
+Canada,4,Ing. de Computacion,,A36955,Doe,Jhon,Bronce
+Alemania,,Ing. Electronico,,A37020,Doe,Jhon,Bronce
+Chile,7,Ing. de Produccion,,A37045,Doe,Jhon,Silver
+Chile,7,Ing. de Materiales,,A37048,Doe,Jhon,Bronce
+Colombia,6,Ing. Mecanico,,A37052,Doe,Jane,Bronce
+Francia,7,Ing. de Computacion,,A37055,Doe,Jane,Silver
+Argentina,7,Arquitecto,,A37056,Doe,Jane,Bronce
+Espana,,Ing. de Materiales,,A37059,Doe,Jane,Gold
+USA,4,Ing. Quimico,,A37065,Doe,Jhon,Bronce
+USA,5,Ing. Quimico,,A37066,Doe,Jhon,Silver
+USA,5,Ing. de Computacion,,A37067,Doe,Jane,Silver
+Colombia,10,Ing. de Materiales,,A37068,Doe,Jane,Bronce
+Chile,,Ing. de Produccion,,A37077,Doe,Jane,Bronce
+Emiratos Arabes Unidos,,Ing. Quimico,,A37084,Doe,Jhon,Silver
+USA,8,Lic. en Fisica,,A37085,Doe,Jhon,Silver
+Chile,7,Ing. Mecanico,,A37089,Doe,Jhon,Gold
+Reino Unido,89,Lic. en Fisica,,A37092,Doe,Jane,Silver
+Espana,,,Maestria en Economia de Hidrocarburos,A371,Doe,Jane,Silver
+USA,9,Ing. de Produccion,,A37101,Doe,Jane,Silver
+USA,11,Ing. Mecanico,,A37200,Doe,Jane,Bronce
+Costa Rica,,,,A37201,Doe,Jhon,Silver
+Peru,8,Ing. de Materiales,,A37203,Doe,Jane,Gold
+USA,9,Ing. Mecanico,,A37205,Doe,Jane,Silver
+Brasil,,Ing. Electricista,,A37206,Doe,Jhon,Silver
+Colombia,,,,A37207,Doe,Jane,Bronce
+Venezuela,,,,A37209,Doe,Jane,Bronce
+Espana,6,Ing. Geofisico,,A37211,Doe,Jhon,Bronce
+USA,,Lic. en Matematica,,A37212,Doe,Jane,Silver
+USA,,,,A37213,Doe,Jhon,Bronce
+Reino Unido,,Ing. Electronico,,A3724,Doe,Jhon,Bronce
+Suiza,6,Ing. Geofisico,,A37359,Doe,Jane,Bronce
+Holanda,5,Ing. Quimico,,A37361,Doe,Jane,Silver
+USA,7,Ing. de Computacion,,A37365,Doe,Jane,Silver
+Espana,9,Ing. de Produccion,,A37376,Doe,Jane,Bronce
+Panama,7,Ing. Electricista,,A37399,Doe,Jane,Bronce
+Holanda,6,Ing. Electronico,,A37405,Doe,Jane,Bronce
+Alemania,7,Ing. Geofisico,,A37421,Doe,Jhon,Silver
+Holanda,7,Urbanista,,A37432,Doe,Jhon,Silver
+Reino Unido,8,Ing. Geofisico,,A37484,Doe,Jhon,Silver
+Suecia,,Lic. en Quimica,,A3749,Doe,Jane,Silver
+Mexico,9,Ing. Electronico,,A37537,Doe,Jhon,Bronce
+Holanda,9,Ing. Electronico,,A37542,Doe,Jhon,Silver
+Canada,9,Ing. de Computacion,,A37546,Doe,Jhon,Silver
+Colombia,10,TSU en Comercio Exterior,,A37598,Doe,Jane,Bronce
+Holanda,10,TSU en Comercio Exterior,,A37604,Doe,Jhon,Silver
+Suecia,,TSU en Comercio Exterior,,A37612,Doe,Jane,Silver
+Mexico,,,Doctorado en Nutricion,A37693,Doe,Jhon,Silver
+USA,,Ing. de Computacion,Especializacion en Gerencia de Mercadeo,A3773,Doe,Jane,Silver
+Venezuela,9,Ing. Mecanico,,A37745,Doe,Jane,Bronce
+Francia,5,Ing. Geofisico,,A37768,Doe,Jhon,Bronce
+USA,5,Ing. Electricista,,A37847,Doe,Jhon,Bronce
+Espana,8,Ing. de Computacion,,A37869,Doe,Jane,Bronce
+Espana,5,Ing. de Materiales,,A37935,Doe,Jhon,Bronce
+Peru,7,Ing. de Materiales,,A37951,Doe,Jhon,Bronce
+Espana,8,Ing. de Materiales,,A37972,Doe,Jhon,Silver
+Reino Unido,8,Ing. de Produccion,,A37994,Doe,Jhon,Bronce
+Francia,9,Ing. de Produccion,,A38004,Doe,Jane,Gold
+Chile,9,Ing. de Produccion,,A38005,Doe,Jane,Bronce
+Espana,,,Especializacion en Gestion de Servicios,A3802,Doe,Jane,Silver
+Canada,4,Ing. Electricista,,A38115,Doe,Jane,Silver
+China,6,Ing. de Materiales,,A38157,Doe,Jane,Silver
+Suecia,10,TSU en Organizacion Empresarial,,A38210,Doe,Jhon,Bronce
+USA,9,Lic. en Biologia,,A38212,Doe,Jane,Bronce
+Republica Dominicana,10,Ing. Electronico,,A38215,Doe,Jhon,Gold
+USA,,Lic. en Gestion de la Hospitalidad,,A38242,Doe,Jhon,Bronce
+Alemania,5,Ing. Mecanico,,A38265,Doe,Jhon,Bronce
+Alemania,8,Ing. Mecanico,,A38312,Doe,Jhon,Silver
+Espana,9,Ing. Geofisico,,A38345,Doe,Jane,Gold
+Espana,9,Lic. en Fisica,,A38370,Doe,Jhon,Silver
+Colombia,6,Ing. Electronico,,A38444,Doe,Jhon,Bronce
+Argentina,9,Ing. de Computacion,,A38501,Doe,Jane,Bronce
+Suecia,,Ing. Electronico,,A3865,Doe,Jhon,Bronce
+Colombia,10,Ing. Mecanico,,A38697,Doe,Jhon,Bronce
+Republica Dominicana,,,Especializacion en Opinion Publica y Com,A38742,Doe,Jhon,Bronce
+USA,,Lic. en Gestion de la Hospitalidad,,A38861,Doe,Jane,Bronce
+USA,9,Arquitecto,,A38885,Doe,Jhon,Silver
+Colombia,,TSU en Comercio Exterior,,A38896,Doe,Jhon,Bronce
+Holanda,75,Ing. Quimico,,A3890,Doe,Jane,Silver
+Espana,9,Lic. en Biologia,,A38939,Doe,Jhon,Gold
+USA,8,Lic. en Fisica,,A38946,Doe,Jane,Silver
+Holanda,10,Ing. Mecanico,,A39067,Doe,Jhon,Silver
+Alemania,9,Ing. de Computacion,,A39080,Doe,Jane,Bronce
+Reino Unido,10,Ing. de Computacion,,A39095,Doe,Jane,Silver
+Francia,8,Lic. en Quimica,,A39110,Doe,Jane,Bronce
+Reino Unido,10,Ing. de Computacion,,A39114,Doe,Jhon,Silver
+Holanda,14,Ing. de Computacion,,A39400,Doe,Jane,Silver
+USA,11,Ing. de Produccion,,A39500,Doe,Jane,Gold
+Colombia,10,Ing. Electricista,,A39552,Doe,Jane,Bronce
+Argentina,13,,Maestria en Ingenieria Biomedica,A39553,Doe,Jhon,Bronce
+Venezuela,7,Ing. Electronico,,A39600,Doe,Jhon,Bronce
+Chile,11,Ing. de Computacion,,A39602,Doe,Jhon,Bronce
+Colombia,,Lic. en Biologia,,A3990,Doe,Jane,Bronce
+Venezuela,11,Lic. en Biologia,,A39900,Doe,Jane,Bronce
+USA,6,Ing. Electronico,,A39997,Doe,Jhon,Silver
+Venezuela,11,,,A39998,Doe,Jane,Bronce
+Venezuela,13,TSU en Comercio Exterior,,A40002,Doe,Jhon,Bronce
+Reino Unido,11,Ing. de Computacion,,A40052,Doe,Jhon,Bronce
+USA,11,Lic. en Matematica,,A40100,Doe,Jhon,Bronce
+Venezuela,9,Ing. Electricista,,A40125,Doe,Jhon,Bronce
+Chile,12,Ing. de Computacion,,A40200,Doe,Jane,Bronce
+Espana,10,Arquitectura,,A40336,Doe,Jhon,Silver
+Chile,,,Especializacion en Didactica de las Mate,A4040,Doe,Jane,Bronce
+USA,75,Lic. en Matematica,Maestria en Planificacion e Ingenieria d,A4063,Doe,Jhon,Silver
+USA,77,Ing. Electronico,Especializacion en Gerencia de las Telec,A4091,Doe,Jane,Bronce
+Costa Rica,,Urbanista,,A4133,Doe,Jane,Bronce
+Suecia,,TSU en Administracion del Transporte,,A4211,Doe,Jane,Bronce
+Colombia,,Ing. de Materiales,Especializacion en Finanzas de la Empres,A4359,Doe,Jhon,Bronce
+Argentina,,Ing. de Materiales,,A4381,Doe,Jane,Bronce
+Italia,,,Doctorado en Filosofia,A444,Doe,Jane,Silver
+Colombia,,,Maestria en Ciencia Politica,A4582,Doe,Jhon,Bronce
+Canada,77,Ing. Electronico,,A4654,Doe,Jhon,Bronce
+USA,,Ing. Electronico,,A4726,Doe,Jane,Bronce
+Reino Unido,,Urbanista,,A4755,Doe,Jane,Silver
+Venezuela,76,Lic. en Quimica,,A4757,Doe,Jane,Bronce
+Espana,78,Lic. en Biologia,Maestria en Ciencias de los Alimentos,A4832,Doe,Jane,Silver
+Venezuela,,Lic. en Biologia,,A4846,Doe,Jhon,Silver
+Reino Unido,79,Ing. de Computacion,Maestria en Literatura Latinoamericana,A4859,Doe,Jhon,Silver
+Colombia,,Urbanista,,A4908,Doe,Jane,Bronce
+Suiza,80,Ing. Electronico,,A4964,Doe,Jhon,Bronce
+Canada,79,Urbanista,,A4965,Doe,Jhon,Silver
+Francia,,,Especializacion en Gerencia de Auditoria,A498,Doe,Jane,Bronce
+Venezuela,,Ing. Electronico,,A5135,Doe,Jhon,Bronce
+Reino Unido,,Ing. de Materiales,,A5271,Doe,Jane,Bronce
+Italia,,Ing. de Computacion,,A530,Doe,Jane,Gold
+Reino Unido,,Ing. de Computacion,,A5329,Doe,Jane,Bronce
+Argentina,,Ing. de Computacion,,A5401,Doe,Jane,Silver
+Chile,74,Ing. Electronico,,A553,Doe,Jane,Bronce
+USA,77,Lic. en Quimica,,A5539,Doe,Jane,Bronce
+USA,76,Arquitecto,,A5549,Doe,Jane,Bronce
+Alemania,77,Ing. Mecanico,,A5620,Doe,Jane,Bronce
+,78,Ing. de Computacion,,A5774,Doe,Jane,Bronce
+Espana,75,Ing. de Materiales,,A579,Doe,Jane,Bronce
+USA,77,Ing. Quimico,Maestria en Ingenieria Quimica,A5998,Doe,Jane,Silver
+USA,,Urbanista,,A6036,Doe,Jane,Gold
+Portugal,77,Ing. de Computacion,,A6058,Doe,Jhon,Silver
+Alemania,77,Lic. en Quimica,,A6106,Doe,Jane,Gold
+Suecia,,TSU en Tecnologia Mecanica,,A6142,Doe,Jhon,Bronce
+Venezuela,,Ing. Electronico,Doctorado en Computacion,A6261,Doe,Jane,Silver
+Reino Unido,78,Arquitecto,,A6279,Doe,Jane,Bronce
+Venezuela,,Lic. en Biologia,,A6345,Doe,Jane,Bronce
+Panama,,,Maestria en Literatura Latinoamericana,A635,Doe,Jhon,Bronce
+Venezuela,,Ing. Electronico,,A6439,Doe,Jhon,Silver
+Alemania,82,Ing. de Computacion,,A6483,Doe,Jhon,Bronce
+Portugal,,Ing. Mecanico,,A6495,Doe,Jhon,Bronce
+Colombia,,,,A6504,Doe,Jane,Gold
+Francia,77,Ing. Electricista,,A6528,Doe,Jhon,Silver
+Francia,,Urbanista,,A6720,Doe,Jhon,Silver
+Reino Unido,,,Especializacion en Nutricion Clinica,A6873,Doe,Jhon,Silver
+USA,,Ing. Electronico,,A6888,Doe,Jane,Silver
+Reino Unido,79,Ing. Mecanico,,A6891,Doe,Jane,Silver
+Espana,78,Ing. Mecanico,,A6955,Doe,Jane,Silver
+Republica Dominicana,78,Ing. Mecanico,,A7033,Doe,Jane,Silver
+USA,79,Ing. de Computacion,Especializacion en Gerencia de Proyectos,A7041,Doe,Jane,Silver
+Chile,79,Lic. en Biologia,,A7067,Doe,Jhon,Silver
+Chile,,Lic. en Biologia,,A7331,Doe,Jhon,Silver
+Espana,,,Maestria en Ingenieria de Sistemas,A7344,Doe,Jhon,Bronce
+Francia,,Ing. de Materiales,,A7364,Doe,Jane,Bronce
+Chile,,Ing. de Materiales,,A7365,Doe,Jhon,Silver
+USA,,,Maestria en Literatura Latinoamerica,A7446,Doe,Jhon,Bronce
+Venezuela,,,Especializacion en Informatica Educativa,A7497,Doe,Jane,Bronce
+Francia,80,Ing. Mecanico,,A7525,Doe,Jhon,Bronce
+Italia,82,Lic. en Biologia,,A7604,Doe,Jane,Bronce
+Argentina,,Ing. Electronico,,A770,Doe,Jane,Bronce
+Canada,82,Ing. Quimico,,A7741,Doe,Jane,Silver
+Reino Unido,82,Ing. Electronico,Maestria en Ingenieria Electronica,A7800,Doe,Jhon,Silver
+Espana,,Arquitecto,,A7826,Doe,Jhon,Bronce
+Alemania,,Ing. Electricista,,A7838,Doe,Jane,Silver
+Canada,,,Especializacion en Gerencia de Auditoria,A785,Doe,Jhon,Silver
+Panama,85,Ing. de Computacion,,A7988,Doe,Jhon,Bronce
+Colombia,85,Ing. Quimico,,A8087,Doe,Jane,Bronce
+Venezuela,,,Especializacion en Gerencia de la Empres,A811,Doe,Jane,Bronce
+Venezuela,84,Ing. Electronico,Maestria en Ingenieria Electronica,A8112,Doe,Jane,Bronce
+Peru,84,Ing. de Materiales,,A8129,Doe,Jane,Silver
+Espana,85,Ing. de Materiales,Maestria en Ingenieria de Materiales,A8167,Doe,Jhon,Bronce
+USA,,,Especializacion en Gerencia de la Tecnol,A8173,Doe,Jhon,Silver
+Venezuela,86,Ing. de Materiales,,A8238,Doe,Jane,Bronce
+Canada,86,Ing. de Materiales,,A8246,Doe,Jane,Bronce
+Venezuela,80,Ing. Quimico,Maestria en Ingenieria Quimica,A8252,Doe,Jane,Bronce
+Espana,,Ing. de Computacion,,A8292,Doe,Jane,Silver
+Espana,,TSU en Tecnologia Electronica,,A8429,Doe,Jane,Silver
+Panama,89,Ing. Mecanico,,A8437,Doe,Jhon,Bronce
+Venezuela,77,Ing. Mecanico,,A8599,Doe,Jane,Bronce
+Venezuela,82,Ing. de Computacion,Especializacion en Gerencia de la Empres,A8681,Doe,Jane,Bronce
+Australia,,TSU en Mantenimiento Aeroutico,,A8841,Doe,Jane,Silver
+Canada,,Ing. de Computacion,,A8889,Doe,Jane,Bronce
+Noruega,,TSU en Administracion del Transporte,,A8942,Doe,Jane,Bronce
+USA,,Ing. Mecanico,,A9009,Doe,Jhon,Silver
+USA,84,Ing. Electronico,,A9070,Doe,Jane,Silver
+,,TSU en Tecnologia Electronica,,A9098,Doe,Jane,Bronce
+Espana,,Urbanista,,A9243,Doe,Jane,Silver
+Colombia,,Arquitecto,,A9395,Doe,Jane,Bronce
+USA,79,Ing. Mecanico,,A9414,Doe,Jhon,Bronce
+Israel,80,Ing. Mecanico,,A9461,Doe,Jane,Bronce
+,81,Arquitecto,,A9469,Doe,Jane,Bronce
+Italia,83,Ing. de Computacion,,A9541,Doe,Jane,Bronce
+Espana,,,Maestria en Ingenieria Mecanica,A9606,Doe,Jane,Bronce
+Colombia,85,Ing. Electronico,,A9677,Doe,Jhon,Bronce
+Canada,95,Ing. Quimico,,A9772,Doe,Jane,Bronce
+Brasil,80,Ing. Electronico,,A9858,Doe,Jane,Silver
+Chile,82,Urbanista,,A9943,Doe,Jane,Bronce
+Venezuela,,Lic. en Biologia,,A9961,Doe,Jhon,Bronce
+Alemania,,,,E00002,Doe,Jane,Silver
