@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/code-for-venezuela/2019-april-codeathon/master/assets/codhez.png" alt="CODHEZ" width="100" />
+
 # Tracking Blackouts in Venezuela
 
 ## Who We Are
