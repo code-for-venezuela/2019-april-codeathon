@@ -17,6 +17,11 @@ Here's a [description](https://github.com/code-for-venezuela/2019-april-sf-hackh
 ## Challenge
 Build a system to manage electronic signatures for official documentation issued by Universidad Simón Bolívar.
 
+
+COMMENT: I will put this challenge in the context of the situation in Venezuela and the refugee crisis. Many people
+leaving the country will benefit for having their credentials certified digitally as they relocate elsewhere.
+
+
 ## Skills needed
 1. Frontend
 2. Backend and security

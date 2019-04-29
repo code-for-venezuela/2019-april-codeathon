@@ -15,6 +15,8 @@ Two csv files are provided as part of this challenge that you can use to create 
 - [Contact Information Sample](mockcontacts_codevzla.csv)
 ## Challenge
 Design and create an HTML donor leaderboards to recognize and encourage contributions to AlumnUSB.
+The leaderboards shall support a dynamic data source as well as display correctly in all form factorg
+(eg: smartphones).
 
 ## Skills needed
 - HTML, CSS, JavaScript

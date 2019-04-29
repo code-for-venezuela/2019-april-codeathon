@@ -28,6 +28,12 @@ We would like to make it easier and more transparent to start having access to V
 
 In order to create more awareness about this issue, we would like to create a platform that makes this information available and discoverable through APIs.  Similar to the work that [PAHO](http://www.paho.org/hq/index.php?option=com_content&view=article&id=2632:2010-interactive-malaria-statistics&Itemid=2130&lang=en) is doing but completely focused on Venezuelan data.
 
+COMMENT: I think this should be split into three challenges: 
+1) Parse Data / Publish it 
+2) visualization 
+3) analysis of the data.
+Similar to the MVP-INF description, and have someone coordinate this work from the team.
+
 1. **Open Data**: The government used to publish reports about the health data of the country. You will have access to data in this [folder](https://drive.google.com/drive/u/0/folders/1JrNsIx1-jkxWR2VNaJCHk1IFOqKkOnOt). These documents are in a format that are not parseable by computers. The goal of this project is to create a system to parse all this data and make it available through APIs.
     1. __Partnerships - Bonus__:
         1. Explore partnerships with [DataDrum](datadrum.org), [Transparencia Venezuela](https://transparencia.org.ve/) and [Vendata](vendata.org).
